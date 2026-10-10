@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="broadcast_radio_station_count">
+        <item quantity="one">%1$s station</item>
+        <item quantity="other">%1$s stations</item>
+    </plurals>
+    <plurals name="broadcast_podcast_episode_count">
+        <item quantity="one">%1$d episode</item>
+        <item quantity="other">%1$d episodes</item>
+    </plurals>
+    <plurals name="broadcast_podcast_new_found">
+        <item quantity="one">%1$d new episode found</item>
+        <item quantity="other">%1$d new episodes found</item>
+    </plurals>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/localfiles (docs/UI.md). English. -->
+<resources>
+    <string name="localfiles_rescan">Rescan</string>
+    <string name="localfiles_folders">Folders (%1$d)</string>
+    <string name="localfiles_folder_covered">This folder is already inside a listed folder.</string>
+    <string name="localfiles_folder_unavailable">Not reachable in the last scan</string>
+    <string name="localfiles_remove_folder_cd">Remove folder</string>
+    <string name="localfiles_remove_title">Remove folder?</string>
+    <string name="localfiles_remove_body">\"%1$s\" leaves the list; the files are not deleted.</string>
+    <string name="localfiles_remove">Remove</string>
+    <string name="localfiles_permission_sub">To scan the device\'s music library. Folders picked with \"Add folder\" need no permission.</string>
+    <string name="localfiles_empty_title">No folders yet</string>
+    <string name="localfiles_empty_body">Add your music folder; ShadeTube scans the MP3, FLAC, M4A and other audio files in it.</string>
+    <string name="localfiles_no_songs_title">No songs found</string>
+    <string name="localfiles_no_songs_body">The added folders contain no playable audio files.</string>
+    <string name="localfiles_capped">The library reached its file limit; some songs aren\'t listed.</string>
+    <string name="localfiles_search_hint">Search local files</string>
+    <string name="localfiles_narrow_search">%1$d more; narrow it down with search.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/collection. Turkish (default). -->
+<resources>
+    <string name="collection_no_recommendations">Bu liste için öneri bulunamadı</string>
+    <string name="collection_save">Kaydet</string>
+    <string name="collection_saved">Kaydedildi</string>
+    <string name="collection_album_saved">Albüm kitaplığa kaydedildi</string>
+    <string name="collection_album_removed">Albüm kitaplıktan kaldırıldı</string>
+    <string name="collection_only_spotify_albums">Yalnızca Spotify albümleri kaydedilebilir</string>
+    <string name="collection_add_to_queue">Sıraya ekle</string>
+    <string name="collection_go_to_artist">Sanatçıya git</string>
+    <string name="collection_copy_spotify_link">Spotify bağlantısını kopyala</string>
+    <string name="collection_copy_mb_link">MusicBrainz bağlantısını kopyala</string>
+    <string name="collection_remove_from_library">Kitaplıktan kaldır</string>
+    <string name="collection_sort_custom">Özel sıra</string>
+    <string name="collection_sort_added">Eklenme tarihi</string>
+    <string name="collection_sort_title">Başlık</string>
+    <string name="collection_sort_artist">Sanatçı</string>
+    <string name="collection_sort_album">Albüm</string>
+    <string name="collection_sort_duration">Süre</string>
+    <string name="collection_not_found_title">Çalma listesi bulunamadı</string>
+    <string name="collection_not_found_body">Silinmiş olabilir.</string>
+    <string name="collection_filter_empty">Listede \"%1$s\" yok</string>
+    <string name="collection_badge_local">Yerel</string>
+    <string name="collection_owner_you">Sen</string>
+    <string name="collection_smart_badge">Cihazında</string>
+    <string name="collection_smart_not_found_title">Bu liste artık yok</string>
+    <string name="collection_smart_not_found_body">Senin için yapılan listeler her gün dinlediklerinden yeniden üretilir.</string>
+    <string name="collection_save_as_playlist">Liste olarak kaydet</string>
+</resources>

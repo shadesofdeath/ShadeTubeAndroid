@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shell_endless_appended">
+        <item quantity="one">%d benzer şarkı sıraya eklendi</item>
+        <item quantity="other">%d benzer şarkı sıraya eklendi</item>
+    </plurals>
+    <plurals name="shell_sleep_set">
+        <item quantity="one">Uyku zamanlayıcı: %d dk</item>
+        <item quantity="other">Uyku zamanlayıcı: %d dk</item>
+    </plurals>
+    <plurals name="shell_open_skipped">
+        <item quantity="one">%d dosya açılamadı</item>
+        <item quantity="other">%d dosya açılamadı</item>
+    </plurals>
+</resources>

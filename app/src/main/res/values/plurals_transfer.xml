@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="transfer_more_rows">
+        <item quantity="one">ve %1$d satır daha</item>
+        <item quantity="other">ve %1$d satır daha</item>
+    </plurals>
+    <plurals name="transfer_create_summary">
+        <item quantity="one">%1$d şarkı yeni bir yerel listeye eklenecek.</item>
+        <item quantity="other">%1$d şarkı yeni bir yerel listeye eklenecek.</item>
+    </plurals>
+    <plurals name="transfer_also_spotify_body">
+        <item quantity="one">Spotify kimliği olan %1$d şarkıyla</item>
+        <item quantity="other">Spotify kimliği olan %1$d şarkıyla</item>
+    </plurals>
+    <plurals name="transfer_import_done">
+        <item quantity="one">\"%1$s\" oluşturuldu · %2$d şarkı</item>
+        <item quantity="other">\"%1$s\" oluşturuldu · %2$d şarkı</item>
+    </plurals>
+    <plurals name="transfer_spotify_partial">
+        <item quantity="one">Spotify\'a yalnızca %1$d şarkı eklenebildi</item>
+        <item quantity="other">Spotify\'a yalnızca %1$d şarkı eklenebildi</item>
+    </plurals>
+    <plurals name="transfer_export_done">
+        <item quantity="one">%1$d şarkı dışa aktarıldı</item>
+        <item quantity="other">%1$d şarkı dışa aktarıldı</item>
+    </plurals>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/collection. English. -->
+<resources>
+    <string name="collection_no_recommendations">No recommendations found for this list</string>
+    <string name="collection_save">Save</string>
+    <string name="collection_saved">Saved</string>
+    <string name="collection_album_saved">Album saved to your library</string>
+    <string name="collection_album_removed">Album removed from your library</string>
+    <string name="collection_only_spotify_albums">Only Spotify albums can be saved</string>
+    <string name="collection_add_to_queue">Add to queue</string>
+    <string name="collection_go_to_artist">Go to artist</string>
+    <string name="collection_copy_spotify_link">Copy Spotify link</string>
+    <string name="collection_copy_mb_link">Copy MusicBrainz link</string>
+    <string name="collection_remove_from_library">Remove from library</string>
+    <string name="collection_sort_custom">Custom order</string>
+    <string name="collection_sort_added">Date added</string>
+    <string name="collection_sort_title">Title</string>
+    <string name="collection_sort_artist">Artist</string>
+    <string name="collection_sort_album">Album</string>
+    <string name="collection_sort_duration">Duration</string>
+    <string name="collection_not_found_title">Playlist not found</string>
+    <string name="collection_not_found_body">It may have been deleted.</string>
+    <string name="collection_filter_empty">No \"%1$s\" in this list</string>
+    <string name="collection_badge_local">Local</string>
+    <string name="collection_owner_you">You</string>
+    <string name="collection_smart_badge">On device</string>
+    <string name="collection_smart_not_found_title">This list is gone</string>
+    <string name="collection_smart_not_found_body">Lists made for you are rebuilt every day from what you listen to.</string>
+    <string name="collection_save_as_playlist">Save as playlist</string>
+</resources>

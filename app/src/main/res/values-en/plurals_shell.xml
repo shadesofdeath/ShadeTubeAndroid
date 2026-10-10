@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shell_endless_appended">
+        <item quantity="one">%d similar song added to the queue</item>
+        <item quantity="other">%d similar songs added to the queue</item>
+    </plurals>
+    <plurals name="shell_sleep_set">
+        <item quantity="one">Sleep timer: %d min</item>
+        <item quantity="other">Sleep timer: %d min</item>
+    </plurals>
+    <plurals name="shell_open_skipped">
+        <item quantity="one">%d file couldn\'t be opened</item>
+        <item quantity="other">%d files couldn\'t be opened</item>
+    </plurals>
+</resources>

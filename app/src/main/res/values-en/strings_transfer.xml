@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/transfer (import / export). English. -->
+<resources>
+    <string name="transfer_step_source">Source</string>
+    <string name="transfer_step_create">Create</string>
+    <string name="transfer_pick_formats">M3U, M3U8, CSV, XSPF or JSON</string>
+    <string name="transfer_or">or</string>
+    <string name="transfer_link_hint">youtube.com/playlist?list=…</string>
+    <string name="transfer_reading">Reading the list…</string>
+    <string name="transfer_reading_body">Matching songs; long lists can take a while.</string>
+    <string name="transfer_error_unreadable">This file couldn\'t be read. Pick a playlist file.</string>
+    <string name="transfer_error_not_youtube">This isn\'t a YouTube playlist link.</string>
+    <string name="transfer_error_youtube">Couldn\'t get the playlist from YouTube. Check your connection and try again.</string>
+    <string name="transfer_found_label">songs found</string>
+    <string name="transfer_unreadable_label">rows unreadable</string>
+    <string name="transfer_badge_local">Local</string>
+    <string name="transfer_badge_by_name">By name</string>
+    <string name="transfer_line">Line %1$d</string>
+    <string name="transfer_next">Next</string>
+    <string name="transfer_name_label">Playlist name</string>
+    <string name="transfer_default_name">Imported playlist</string>
+    <string name="transfer_also_spotify">Also create on Spotify</string>
+    <string name="transfer_spotify_created">also created on Spotify</string>
+    <string name="transfer_spotify_failed">couldn\'t create it on Spotify</string>
+    <string name="transfer_import_failed">Couldn\'t create the playlist</string>
+    <string name="transfer_queue_name">Queue</string>
+    <string name="transfer_format_m3u">Opens in most music players</string>
+    <string name="transfer_format_csv">Spreadsheet; works with Exportify / TuneMyMusic</string>
+    <string name="transfer_format_xspf">Open XML format (VLC, Strawberry)</string>
+    <string name="transfer_format_json">ShadeTube backup; keeps everything</string>
+    <string name="transfer_export_nothing">Nothing to export</string>
+    <string name="transfer_export_failed">Couldn\'t export</string>
+</resources>

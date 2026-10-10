@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_small_label">Player</string>
+    <string name="widget_large_label">Player (wide)</string>
+    <string name="widget_small_description">Cover, song and playback controls</string>
+    <string name="widget_large_description">Cover, progress and every control, shuffle and like included</string>
+    <string name="widget_empty_title">Play something</string>
+    <string name="widget_empty_subtitle">Tap to start listening</string>
+    <string name="widget_preview_title">Night Drive</string>
+    <string name="widget_preview_artist">ShadeTube</string>
+    <string name="voice_search_nothing_found">Nothing matched your search</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/broadcast (Yayın: Radyo + Podcast). Turkish (default). -->
+<resources>
+    <string name="broadcast_tab_podcasts">Podcast</string>
+    <string name="broadcast_show_more">Devamını göster</string>
+    <string name="broadcast_show_less">Daha az göster</string>
+
+    <!-- Radyo -->
+    <string name="broadcast_radio_world_popular">Dünyada popüler istasyonlar</string>
+    <string name="broadcast_radio_search_title">\"%1$s\" araması</string>
+    <string name="broadcast_radio_favorite_cd">Favorilere ekle</string>
+    <string name="broadcast_radio_unfavorite_cd">Favorilerden çıkar</string>
+    <string name="broadcast_radio_favorites_empty_title">Henüz favori istasyon yok</string>
+    <string name="broadcast_radio_favorites_empty_body">Bir istasyonun yanındaki kalbe dokun; burada toplanır.</string>
+    <string name="broadcast_radio_recent_empty_title">Henüz istasyon dinlemedin</string>
+    <string name="broadcast_radio_recent_empty_body">Dinlediğin istasyonlar burada görünür.</string>
+    <string name="broadcast_radio_no_results_title">İstasyon bulunamadı</string>
+    <string name="broadcast_radio_no_results_body">Başka bir ad ya da tür dene.</string>
+
+    <!-- Podcast -->
+    <string name="broadcast_podcast_search_hint">Podcast ara</string>
+    <string name="broadcast_podcast_subscriptions_empty">Abone olduğun podcastler burada görünür. Aşağıdaki popüler programlara göz at ya da ara.</string>
+    <string name="broadcast_podcast_new_episodes">Yeni bölümler</string>
+    <string name="broadcast_podcast_new_empty">Aboneliklerinde henüz bölüm yok. Yenilemek için aşağı çek.</string>
+    <string name="broadcast_podcast_no_results_title">Podcast bulunamadı</string>
+    <string name="broadcast_podcast_no_results_body">Başka bir ad dene ya da RSS adresiyle ekle.</string>
+    <string name="broadcast_podcast_no_episodes">Bu programda henüz bölüm yok</string>
+    <string name="broadcast_podcast_played">Oynatıldı</string>
+    <string name="broadcast_podcast_minutes">%1$d dk</string>
+    <string name="broadcast_podcast_download">Bölümü indir</string>
+    <string name="broadcast_podcast_cancel_download">İndirmeyi iptal et</string>
+    <string name="broadcast_podcast_delete_download">İndirileni sil</string>
+    <string name="broadcast_podcast_delete_title">İndirilen bölüm silinsin mi?</string>
+    <string name="broadcast_podcast_delete_body">\"%1$s\" cihazından silinir; internetten dinlemeye devam edebilirsin.</string>
+    <string name="broadcast_podcast_details">Bölüm ayrıntıları</string>
+    <string name="broadcast_podcast_go_to_show">Programa git</string>
+    <string name="broadcast_podcast_from_start">Baştan çal</string>
+    <string name="broadcast_podcast_notes">Bölüm notları</string>
+    <string name="broadcast_podcast_episode_missing_title">Bölüm bulunamadı</string>
+    <string name="broadcast_podcast_episode_missing_body">Programın sayfasını açıp bölümü oradan seç.</string>
+    <string name="broadcast_podcast_rss_body">Kendi sunucundaki ya da dizinde olmayan bir podcastin akış adresini yapıştır.</string>
+    <string name="broadcast_podcast_rss_hint">https://…/feed.xml</string>
+    <string name="broadcast_podcast_rss_add">Ekle</string>
+    <string name="broadcast_podcast_rss_adding">Ekleniyor…</string>
+    <string name="broadcast_podcast_error_local">Bu adres yerel ağda; yalnızca RSS adresiyle eklenen podcastler oradan çalabilir.</string>
+    <string name="broadcast_podcast_error_not_feed">Bu adreste bir podcast akışı yok.</string>
+    <string name="broadcast_podcast_error_gone">Bu podcast artık yayınlanmıyor.</string>
+    <string name="broadcast_podcast_up_to_date">Yeni bölüm yok</string>
+    <string name="broadcast_podcast_downloaded">İndirildi: %1$s</string>
+    <string name="broadcast_podcast_download_failed">İndirilemedi: %1$s. %2$s</string>
+    <string name="broadcast_podcast_download_deleted">İndirilen bölüm silindi</string>
+    <string name="broadcast_podcast_wait_wifi">Bölüm indirmeleri Wi-Fi bekliyor</string>
+    <string name="broadcast_podcast_wait_offline">Bölüm indirmeleri bağlantı bekliyor</string>
+</resources>

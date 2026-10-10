@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UI gaps: tablet layouts, Home week card, source preview. Turkish (default). -->
+<resources>
+    <string name="home_week_card_cd">Bu hafta %1$s dinledin. İstatistikleri aç</string>
+    <string name="home_week_streams">%1$d çalma</string>
+    <string name="sheets_preview_stop">Durdur</string>
+    <string name="sheets_preview_cd">%1$s videosunu 30 saniye önizle</string>
+    <string name="sheets_preview_stop_cd">Önizlemeyi durdur</string>
+    <string name="sheets_preview_failed">Önizleme açılamadı</string>
+</resources>

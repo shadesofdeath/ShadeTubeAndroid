@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/artist. English. -->
+<resources>
+    <string name="artist_unfollow">Unfollow</string>
+    <string name="artist_releases">Releases</string>
+    <string name="artist_other_releases">Other</string>
+    <string name="artist_show_more">Show more</string>
+    <string name="artist_show_less">Show less</string>
+    <string name="artist_plays">%1$s plays</string>
+    <string name="artist_listens">%1$s listens · ListenBrainz</string>
+    <string name="artist_no_popular">No popular song data for this artist</string>
+    <string name="artist_only_spotify_follow">Only Spotify artists can be followed</string>
+</resources>

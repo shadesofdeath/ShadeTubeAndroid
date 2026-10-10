@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/downloads (docs/UI.md). Plurals, Turkish (default). -->
+<resources>
+    <plurals name="downloads_songs">
+        <item quantity="one">%d şarkı</item>
+        <item quantity="other">%d şarkı</item>
+    </plurals>
+    <plurals name="downloads_rule_active">
+        <item quantity="one">%d şarkı indiriliyor</item>
+        <item quantity="other">%d şarkı indiriliyor</item>
+    </plurals>
+    <plurals name="downloads_rule_failed">
+        <item quantity="one">%d şarkı indirilemedi</item>
+        <item quantity="other">%d şarkı indirilemedi</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Neutral palette (design/faz1/handoff/tokens/tokens.json). Compose reads ui/theme/Color.kt; these are for XML themes,
+     the splash screen and system surfaces. -->
+<resources>
+    <color name="surface0_dark">#FF0B0C10</color>
+    <color name="surface1_dark">#FF12141A</color>
+    <color name="surface2_dark">#FF1A1D25</color>
+    <color name="text1_dark">#FFF3F1EA</color>
+    <color name="text2_dark">#FFA6AAB6</color>
+    <color name="surface0_light">#FFF7F6F1</color>
+    <color name="text1_light">#FF15171D</color>
+    <color name="brand_amber">#FFF0B35A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

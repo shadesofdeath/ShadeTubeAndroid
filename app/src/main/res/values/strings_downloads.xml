@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/downloads (docs/UI.md). Turkish (default). -->
+<resources>
+    <string name="downloads_cancel_cd">İndirmeyi iptal et</string>
+    <string name="downloads_queued">Sırada</string>
+    <string name="downloads_more_queued">%1$d şarkı daha göster</string>
+    <string name="downloads_failed">Başarısız indirmeler</string>
+    <string name="downloads_retry_all">Tümünü tekrar dene</string>
+    <string name="downloads_finished">İndirilen şarkılar</string>
+    <string name="downloads_swipe_hint">Silmek için bir şarkıyı sola kaydır.</string>
+    <string name="downloads_syncing">Senkronlanıyor…</string>
+    <string name="downloads_delete_title">İndirilen silinsin mi?</string>
+    <string name="downloads_delete_body">\"%1$s\" cihazdan silinir. Senkronize bir koleksiyondaysa ondan çıkarılır ve yeniden indirilmez.</string>
+    <string name="downloads_err_no_match">YouTube\'da eşleşme bulunamadı</string>
+    <string name="downloads_err_unavailable">Video kullanılamıyor</string>
+    <string name="downloads_err_rate_limited">YouTube istekleri sınırladı; biraz sonra tekrar dene</string>
+    <string name="downloads_err_network">Bağlantı koptu</string>
+    <string name="downloads_err_io">Dosya yazılamadı</string>
+    <string name="downloads_err_other">İndirilemedi</string>
+    <string name="downloads_excluded_empty">Hariç tutulan şarkı yok.</string>
+    <string name="downloads_restore">Geri al</string>
+    <string name="downloads_restore_all">Hepsini geri al</string>
+    <string name="downloads_rule_never">Henüz senkronlanmadı</string>
+    <string name="downloads_rule_synced">Güncel · %1$s</string>
+    <string name="downloads_rule_source_missing">Spotify\'a bağlı değilsin; son liste korunuyor</string>
+    <string name="downloads_rule_not_found">Koleksiyon bulunamadı</string>
+    <string name="downloads_rule_rate_limited">Spotify istekleri sınırladı; birazdan yeniden denenecek</string>
+    <string name="downloads_rule_network">Liste alınamadı: bağlantı hatası</string>
+    <string name="downloads_stop_sync">Senkronu kapat</string>
+    <string name="downloads_stop_sync_title">\"%1$s\" senkronu kapatılsın mı?</string>
+    <string name="downloads_stop_sync_body">Bu koleksiyon artık çevrimdışı tutulmaz.</string>
+    <string name="downloads_stop_sync_choice">İndirilmiş şarkılar ne olsun? Tutarsan kendi indirmelerin olarak kalırlar.</string>
+    <string name="downloads_stop_sync_delete">Şarkıları sil</string>
+    <string name="downloads_stop_sync_keep">Şarkıları tut</string>
+    <string name="downloads_storage_synced">Senkron: %1$s</string>
+    <string name="downloads_storage_free">Boş: %1$s</string>
+    <string name="downloads_storage_cap">Sınır: senkron ayarı</string>
+    <string name="downloads_wait_offline">Çevrimdışısın; indirmeler bağlantı gelince başlar.</string>
+    <string name="downloads_wait_wifi">Yalnızca Wi-Fi açık; indirmeler Wi-Fi\'ye bağlanınca başlar.</string>
+    <string name="downloads_wait_paused">Senkron duraklatıldı.</string>
+    <string name="downloads_wait_metered">Mobil veride senkron kapalı; Wi-Fi bekleniyor.</string>
+    <string name="downloads_wait_cap">Senkron depolama sınırına ulaşıldı (%1$s / %2$s); yeni şarkılar indirilmiyor.</string>
+</resources>

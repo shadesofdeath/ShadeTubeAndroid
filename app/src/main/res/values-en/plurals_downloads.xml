@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/downloads (docs/UI.md). Plurals, English. -->
+<resources>
+    <plurals name="downloads_songs">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+    <plurals name="downloads_rule_active">
+        <item quantity="one">%d song downloading</item>
+        <item quantity="other">%d songs downloading</item>
+    </plurals>
+    <plurals name="downloads_rule_failed">
+        <item quantity="one">%d song failed</item>
+        <item quantity="other">%d songs failed</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/downloads (docs/UI.md). English. -->
+<resources>
+    <string name="downloads_cancel_cd">Cancel download</string>
+    <string name="downloads_queued">Queued</string>
+    <string name="downloads_more_queued">Show %1$d more</string>
+    <string name="downloads_failed">Failed downloads</string>
+    <string name="downloads_retry_all">Retry all</string>
+    <string name="downloads_finished">Downloaded songs</string>
+    <string name="downloads_swipe_hint">Swipe a song left to delete it.</string>
+    <string name="downloads_syncing">Syncing…</string>
+    <string name="downloads_delete_title">Delete download?</string>
+    <string name="downloads_delete_body">\"%1$s\" is deleted from the device. If a synced collection keeps it, it is taken out and not downloaded again.</string>
+    <string name="downloads_err_no_match">No YouTube match found</string>
+    <string name="downloads_err_unavailable">Video unavailable</string>
+    <string name="downloads_err_rate_limited">YouTube is rate limiting; try again later</string>
+    <string name="downloads_err_network">Connection lost</string>
+    <string name="downloads_err_io">Couldn\'t write the file</string>
+    <string name="downloads_err_other">Download failed</string>
+    <string name="downloads_excluded_empty">No excluded songs.</string>
+    <string name="downloads_restore">Restore</string>
+    <string name="downloads_restore_all">Restore all</string>
+    <string name="downloads_rule_never">Not synced yet</string>
+    <string name="downloads_rule_synced">Up to date · %1$s</string>
+    <string name="downloads_rule_source_missing">Not connected to Spotify; keeping the last listing</string>
+    <string name="downloads_rule_not_found">Collection not found</string>
+    <string name="downloads_rule_rate_limited">Spotify is rate limiting; retrying shortly</string>
+    <string name="downloads_rule_network">Couldn\'t list it: connection error</string>
+    <string name="downloads_stop_sync">Stop syncing</string>
+    <string name="downloads_stop_sync_title">Stop syncing \"%1$s\"?</string>
+    <string name="downloads_stop_sync_body">This collection is no longer kept offline.</string>
+    <string name="downloads_stop_sync_choice">What about the downloaded songs? If you keep them, they stay as your own downloads.</string>
+    <string name="downloads_stop_sync_delete">Delete songs</string>
+    <string name="downloads_stop_sync_keep">Keep songs</string>
+    <string name="downloads_storage_synced">Synced: %1$s</string>
+    <string name="downloads_storage_free">Free: %1$s</string>
+    <string name="downloads_storage_cap">Limit: sync setting</string>
+    <string name="downloads_wait_offline">You\'re offline; downloads start when you\'re back online.</string>
+    <string name="downloads_wait_wifi">Wi-Fi only is on; downloads start on Wi-Fi.</string>
+    <string name="downloads_wait_paused">Sync is paused.</string>
+    <string name="downloads_wait_metered">Sync is off on mobile data; waiting for Wi-Fi.</string>
+    <string name="downloads_wait_cap">Sync storage limit reached (%1$s / %2$s); no new songs are downloaded.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sheets_track_count">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+    <plurals name="sheets_skipped_not_spotify">
+        <item quantity="one">(%d song not on Spotify was left out)</item>
+        <item quantity="other">(%d songs not on Spotify were left out)</item>
+    </plurals>
+    <plurals name="sheets_created_with_songs">
+        <item quantity="one">\"%1$s\" created · %2$d song added</item>
+        <item quantity="other">\"%1$s\" created · %2$d songs added</item>
+    </plurals>
+
+    <plurals name="sheets_sync_excluded">
+        <item quantity="one">%d song removed from sync</item>
+        <item quantity="other">%d songs removed from sync</item>
+    </plurals>
+    <plurals name="sheets_sync_included">
+        <item quantity="one">%d song back in sync</item>
+        <item quantity="other">%d songs back in sync</item>
+    </plurals>
+    <plurals name="sheets_sync_deleted">
+        <item quantity="one">%d download deleted</item>
+        <item quantity="other">%d downloads deleted</item>
+    </plurals>
+</resources>

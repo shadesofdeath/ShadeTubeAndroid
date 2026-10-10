@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UI gaps: tablet layouts, Home week card, source preview. English. -->
+<resources>
+    <string name="home_week_card_cd">You listened for %1$s this week. Open stats</string>
+    <string name="home_week_streams">%1$d plays</string>
+    <string name="sheets_preview_stop">Stop</string>
+    <string name="sheets_preview_cd">Preview %1$s for 30 seconds</string>
+    <string name="sheets_preview_stop_cd">Stop the preview</string>
+    <string name="sheets_preview_failed">Couldn\'t play the preview</string>
+</resources>

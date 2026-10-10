@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/stats (docs/UI.md). Plurals, Turkish (default). -->
+<resources>
+    <plurals name="stats_days">
+        <item quantity="one">%d gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+</resources>

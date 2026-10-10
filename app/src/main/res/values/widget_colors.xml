@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Widget picker previews (tokens.json light palette; values-night: dark). The live widgets use Glance colors. -->
+<resources>
+    <color name="widget_surface">#FFEEEDE7</color>
+    <color name="widget_cover">#FFE3E1DA</color>
+    <color name="widget_text1">#FF15171D</color>
+    <color name="widget_text2">#FF5B606D</color>
+    <color name="widget_accent">#FF4A4F5C</color>
+    <color name="widget_on_accent">#FFFFFFFF</color>
+</resources>

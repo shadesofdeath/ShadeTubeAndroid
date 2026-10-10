@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/transfer (içe / dışa aktar). Turkish (default). -->
+<resources>
+    <string name="transfer_step_source">Kaynak</string>
+    <string name="transfer_step_create">Oluştur</string>
+    <string name="transfer_pick_formats">M3U, M3U8, CSV, XSPF veya JSON</string>
+    <string name="transfer_or">veya</string>
+    <string name="transfer_link_hint">youtube.com/playlist?list=…</string>
+    <string name="transfer_reading">Liste okunuyor…</string>
+    <string name="transfer_reading_body">Şarkılar eşleştiriliyor; uzun listeler biraz sürebilir.</string>
+    <string name="transfer_error_unreadable">Bu dosya okunamadı. Bir çalma listesi dosyası seç.</string>
+    <string name="transfer_error_not_youtube">Bu bir YouTube listesi linki değil.</string>
+    <string name="transfer_error_youtube">Liste YouTube\'dan alınamadı. Bağlantını kontrol edip tekrar dene.</string>
+    <string name="transfer_found_label">şarkı bulundu</string>
+    <string name="transfer_unreadable_label">satır okunamadı</string>
+    <string name="transfer_badge_local">Yerel</string>
+    <string name="transfer_badge_by_name">Ada göre</string>
+    <string name="transfer_line">Satır %1$d</string>
+    <string name="transfer_next">Devam</string>
+    <string name="transfer_name_label">Liste adı</string>
+    <string name="transfer_default_name">İçe aktarılan liste</string>
+    <string name="transfer_also_spotify">Spotify\'da da oluştur</string>
+    <string name="transfer_spotify_created">Spotify\'da da oluşturuldu</string>
+    <string name="transfer_spotify_failed">Spotify\'da oluşturulamadı</string>
+    <string name="transfer_import_failed">Liste oluşturulamadı</string>
+    <string name="transfer_queue_name">Sıra</string>
+    <string name="transfer_format_m3u">Çoğu müzik oynatıcısı açar</string>
+    <string name="transfer_format_csv">Tablo; Exportify / TuneMyMusic ile uyumlu</string>
+    <string name="transfer_format_xspf">Açık XML biçimi (VLC, Strawberry)</string>
+    <string name="transfer_format_json">ShadeTube yedeği; her şeyi saklar</string>
+    <string name="transfer_export_nothing">Dışa aktarılacak şarkı yok</string>
+    <string name="transfer_export_failed">Dışa aktarılamadı</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/stats (docs/UI.md). Turkish (default). -->
+<resources>
+    <string name="stats_show_less">Daha az</string>
+    <string name="stats_streams">Dinleme</string>
+    <string name="stats_songs">Şarkı</string>
+    <string name="stats_artists">Sanatçı</string>
+    <string name="stats_new_artists">Yeni sanatçı</string>
+    <string name="stats_active_days">Aktif gün</string>
+    <string name="stats_longest_streak">En uzun seri</string>
+    <string name="stats_various_artists">Çeşitli sanatçılar</string>
+    <string name="stats_empty_title">Bu dönemde dinleme yok</string>
+    <string name="stats_empty_body">Şarkı dinledikçe istatistiklerin burada oluşur. Spotify geçmişini de içe aktarabilirsin.</string>
+    <string name="stats_heatmap_sub">Ne zaman dinliyorsun? Bir hücreye dokun.</string>
+    <string name="stats_heatmap_cd">Gün ve saate göre dinleme ısı haritası</string>
+    <string name="stats_history">Geçmiş</string>
+    <string name="stats_import_sub">Spotify hesap verisi dışa aktarımı (JSON veya ZIP)</string>
+    <string name="stats_import_reading">Okunuyor… %1$d / %2$d</string>
+    <string name="stats_import_merging">Birleştiriliyor…</string>
+    <string name="stats_import_busy">Bir içe aktarma zaten sürüyor.</string>
+    <string name="stats_import_unavailable">Geçmiş henüz yüklenmedi; biraz sonra tekrar dene.</string>
+    <string name="stats_import_failed">İçe aktarılamadı: %1$s</string>
+    <string name="stats_import_write_failed">Geçmiş kaydedilemedi; hiçbir şey değişmedi.</string>
+    <string name="stats_import_no_history">Seçilen dosyalarda Spotify dinleme geçmişi bulunamadı.</string>
+    <string name="stats_import_nothing_new">Bu geçmiş zaten içe aktarılmış; yeni dinleme yok.</string>
+    <string name="stats_import_done">%1$d dinleme eklendi · %2$d tekrar atlandı.</string>
+    <string name="stats_import_unreadable">%1$d dosya okunamadı.</string>
+    <string name="stats_imported_count">%1$d içe aktarılmış dinleme</string>
+    <string name="stats_remove_imported">İçe aktarılanları kaldır</string>
+    <string name="stats_remove_imported_title">İçe aktarılanlar kaldırılsın mı?</string>
+    <string name="stats_remove_imported_body">Spotify\'dan içe aktarılan %1$d dinleme silinir. ShadeTube\'da dinlediklerin kalır.</string>
+    <string name="stats_clear">Dinleme geçmişini sil</string>
+    <string name="stats_clear_title">Tüm geçmiş silinsin mi?</string>
+    <string name="stats_clear_body">Bu cihazdaki ve içe aktarılan tüm dinlemeler silinir. Bu geri alınamaz.</string>
+    <string name="stats_year_title">%1$d özeti</string>
+    <string name="stats_year_empty_title">%1$d için dinleme yok</string>
+    <string name="stats_year_empty_body">Bu yıl için kayıtlı dinleme bulunmuyor.</string>
+    <string name="stats_first_stream">Yılın ilk şarkısı</string>
+    <string name="stats_by_month">Aylara göre</string>
+    <string name="stats_by_weekday">Günlere göre</string>
+    <string name="stats_top_month">En çok dinlediğin ay: %1$s</string>
+    <string name="stats_top_weekday">En çok dinlediğin gün: %1$s</string>
+    <string name="stats_story_minutes">dakika dinledin</string>
+    <string name="stats_story_counts">%1$d dinleme · %2$d şarkı · %3$d sanatçı</string>
+    <string name="stats_story_top_artist">Yılın sanatçısı</string>
+    <string name="stats_story_cd">%1$d yıl özeti story kartı</string>
+    <string name="stats_share_unavailable">Paylaşım bu cihazda kullanılamıyor (Android 10 ve üstü gerekir).</string>
+</resources>

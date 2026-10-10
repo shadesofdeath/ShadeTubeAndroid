@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="collection_smart_streams">
+        <item quantity="one">Bu cihazdaki %d dinlemeden üretildi</item>
+        <item quantity="other">Bu cihazdaki %d dinlemeden üretildi</item>
+    </plurals>
+</resources>

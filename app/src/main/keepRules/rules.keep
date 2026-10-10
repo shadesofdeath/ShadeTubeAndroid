@@ -1,0 +1,26 @@
+# Add project specific R8 rules here.
+# AGP will combine all keep rule files in src/main/keepRules to pass to R8
+#
+# For more details, see
+#   https://d.android.com/r/tools/r8/keep-rules
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+# ---- ShadeTube ----
+# WorkManager (and any Room database): the generated *_Impl class is created reflectively through its no-arg
+# constructor.
+-keep class * extends androidx.room.RoomDatabase { <init>(); }
+# Workers are created reflectively by WorkManager's default factory (Context, WorkerParameters).
+-keep class * extends androidx.work.ListenableWorker { <init>(android.content.Context, androidx.work.WorkerParameters); }
+# Glance widget receivers / callbacks are instantiated by class name.
+-keep class * extends androidx.glance.appwidget.GlanceAppWidgetReceiver { <init>(); }
+-keep class * implements androidx.glance.appwidget.action.ActionCallback { <init>(); }
+
+# jump3r (MP3 downloads): only its de.sciss.jump3r.mp3 / mpg classes are used. lowlevel.LameEncoder and Main reference
+# javax.sound.sampled / java.beans, which Android lacks; they are never loaded.
+-dontwarn javax.sound.sampled.**
+-dontwarn java.beans.**

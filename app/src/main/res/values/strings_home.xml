@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Browse (ui/home + shared browse texts). Turkish (default). -->
+<resources>
+    <string name="home_greeting_morning_plain">Günaydın</string>
+    <string name="home_greeting_day_plain">İyi günler</string>
+    <string name="home_greeting_evening_plain">İyi akşamlar</string>
+    <string name="home_greeting_night_plain">İyi geceler</string>
+    <string name="home_trending_week">Bu hafta popüler</string>
+    <string name="home_trending_week_sub">ListenBrainz · bu hafta</string>
+    <string name="home_new_releases_sub">Son 14 gün</string>
+    <string name="home_popular_artists_sub">Bu hafta</string>
+    <string name="home_more_trending">Öne çıkan albümler</string>
+    <string name="home_empty_title">Dinlemeye başla</string>
+    <string name="home_empty_body">Ara sekmesinden bir şarkı bul ya da Spotify hesabını bağla; ana sayfan dinledikçe dolar.</string>
+    <string name="home_section_empty_title">Burada şimdilik bir şey yok</string>
+    <string name="home_untitled_folder">Adsız klasör</string>
+    <string name="home_album_type_single">Tekli</string>
+    <string name="home_album_type_ep">EP</string>
+    <string name="home_album_type_album">Albüm</string>
+    <string name="home_artist_kind_group">Grup</string>
+    <string name="home_similar_artist">Benzer sanatçı</string>
+    <string name="home_duration_hm">%1$d sa %2$d dk</string>
+    <string name="home_duration_m">%1$d dk</string>
+    <string name="home_compact_thousand">%1$s B</string>
+    <string name="home_compact_million">%1$s Mn</string>
+    <string name="home_smart_month">Bu ayın favorileri</string>
+    <string name="home_smart_best">Tüm zamanların en iyileri</string>
+    <string name="home_smart_rediscover">Tekrar keşfet</string>
+    <string name="home_smart_discoveries">Yeni keşiflerin</string>
+    <string name="home_smart_forgotten">Unutulan beğeniler</string>
+    <string name="home_smart_mix">Günün karışımı %1$d</string>
+    <string name="home_smart_year">%1$d en iyileri</string>
+</resources>

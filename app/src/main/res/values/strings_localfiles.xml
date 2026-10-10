@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/localfiles (docs/UI.md). Turkish (default). -->
+<resources>
+    <string name="localfiles_rescan">Yeniden tara</string>
+    <string name="localfiles_folders">Klasörler (%1$d)</string>
+    <string name="localfiles_folder_covered">Bu klasör zaten listedeki bir klasörün içinde.</string>
+    <string name="localfiles_folder_unavailable">Son taramada erişilemedi</string>
+    <string name="localfiles_remove_folder_cd">Klasörü kaldır</string>
+    <string name="localfiles_remove_title">Klasör kaldırılsın mı?</string>
+    <string name="localfiles_remove_body">\"%1$s\" listeden çıkarılır; dosyalar silinmez.</string>
+    <string name="localfiles_remove">Kaldır</string>
+    <string name="localfiles_permission_sub">Cihazın müzik kitaplığını taramak için. \"Klasör ekle\" ile seçtiğin klasörler izin istemez.</string>
+    <string name="localfiles_empty_title">Henüz klasör yok</string>
+    <string name="localfiles_empty_body">Müzik klasörünü ekle; ShadeTube içindeki MP3, FLAC, M4A ve diğer ses dosyalarını tarar.</string>
+    <string name="localfiles_no_songs_title">Şarkı bulunamadı</string>
+    <string name="localfiles_no_songs_body">Eklenen klasörlerde çalınabilir ses dosyası yok.</string>
+    <string name="localfiles_capped">Kitaplık dosya sınırına ulaştı; bazı şarkılar listelenmiyor.</string>
+    <string name="localfiles_search_hint">Yerel dosyalarda ara</string>
+    <string name="localfiles_narrow_search">%1$d tane daha var; aramayla daralt.</string>
+</resources>

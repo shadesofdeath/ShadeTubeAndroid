@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/artist. Turkish (default). -->
+<resources>
+    <string name="artist_unfollow">Takibi bırak</string>
+    <string name="artist_releases">Yayınlar</string>
+    <string name="artist_other_releases">Diğer</string>
+    <string name="artist_show_more">Daha fazla göster</string>
+    <string name="artist_show_less">Daha az göster</string>
+    <string name="artist_plays">%1$s dinlenme</string>
+    <string name="artist_listens">%1$s dinleme · ListenBrainz</string>
+    <string name="artist_no_popular">Bu sanatçı için popüler şarkı verisi yok</string>
+    <string name="artist_only_spotify_follow">Yalnızca Spotify sanatçıları takip edilebilir</string>
+</resources>

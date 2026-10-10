@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/onboarding. English. -->
+<resources>
+    <string name="onboarding_continue">Continue</string>
+</resources>

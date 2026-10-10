@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/localfiles (docs/UI.md). Plurals, Turkish (default). -->
+<resources>
+    <plurals name="localfiles_songs">
+        <item quantity="one">%d şarkı</item>
+        <item quantity="other">%d şarkı</item>
+    </plurals>
+    <plurals name="localfiles_albums">
+        <item quantity="one">%d albüm</item>
+        <item quantity="other">%d albüm</item>
+    </plurals>
+    <plurals name="localfiles_artists">
+        <item quantity="one">%d sanatçı</item>
+        <item quantity="other">%d sanatçı</item>
+    </plurals>
+</resources>

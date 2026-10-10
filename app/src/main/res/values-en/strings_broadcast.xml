@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/broadcast (Broadcast: Radio + Podcasts). English. -->
+<resources>
+    <string name="broadcast_tab_podcasts">Podcasts</string>
+    <string name="broadcast_show_more">Show more</string>
+    <string name="broadcast_show_less">Show less</string>
+
+    <!-- Radio -->
+    <string name="broadcast_radio_world_popular">Popular around the world</string>
+    <string name="broadcast_radio_search_title">Search \"%1$s\"</string>
+    <string name="broadcast_radio_favorite_cd">Add to favorites</string>
+    <string name="broadcast_radio_unfavorite_cd">Remove from favorites</string>
+    <string name="broadcast_radio_favorites_empty_title">No favorite stations yet</string>
+    <string name="broadcast_radio_favorites_empty_body">Tap the heart next to a station to collect it here.</string>
+    <string name="broadcast_radio_recent_empty_title">No stations played yet</string>
+    <string name="broadcast_radio_recent_empty_body">Stations you listen to show up here.</string>
+    <string name="broadcast_radio_no_results_title">No stations found</string>
+    <string name="broadcast_radio_no_results_body">Try another name or genre.</string>
+
+    <!-- Podcasts -->
+    <string name="broadcast_podcast_search_hint">Search podcasts</string>
+    <string name="broadcast_podcast_subscriptions_empty">Podcasts you subscribe to show up here. Browse the popular shows below or search.</string>
+    <string name="broadcast_podcast_new_episodes">New episodes</string>
+    <string name="broadcast_podcast_new_empty">No episodes in your subscriptions yet. Pull down to refresh.</string>
+    <string name="broadcast_podcast_no_results_title">No podcasts found</string>
+    <string name="broadcast_podcast_no_results_body">Try another name or add it by its RSS address.</string>
+    <string name="broadcast_podcast_no_episodes">This show has no episodes yet</string>
+    <string name="broadcast_podcast_played">Played</string>
+    <string name="broadcast_podcast_minutes">%1$d min</string>
+    <string name="broadcast_podcast_download">Download episode</string>
+    <string name="broadcast_podcast_cancel_download">Cancel download</string>
+    <string name="broadcast_podcast_delete_download">Delete download</string>
+    <string name="broadcast_podcast_delete_title">Delete downloaded episode?</string>
+    <string name="broadcast_podcast_delete_body">\"%1$s\" is removed from this device; you can still stream it.</string>
+    <string name="broadcast_podcast_details">Episode details</string>
+    <string name="broadcast_podcast_go_to_show">Go to show</string>
+    <string name="broadcast_podcast_from_start">Play from start</string>
+    <string name="broadcast_podcast_notes">Show notes</string>
+    <string name="broadcast_podcast_episode_missing_title">Episode not found</string>
+    <string name="broadcast_podcast_episode_missing_body">Open the show\'s page and pick the episode there.</string>
+    <string name="broadcast_podcast_rss_body">Paste the feed address of a podcast on your own server or one the directory doesn\'t list.</string>
+    <string name="broadcast_podcast_rss_hint">https://…/feed.xml</string>
+    <string name="broadcast_podcast_rss_add">Add</string>
+    <string name="broadcast_podcast_rss_adding">Adding…</string>
+    <string name="broadcast_podcast_error_local">This address is on the local network; only podcasts added by their RSS address may play from there.</string>
+    <string name="broadcast_podcast_error_not_feed">There is no podcast feed at this address.</string>
+    <string name="broadcast_podcast_error_gone">This podcast is no longer published.</string>
+    <string name="broadcast_podcast_up_to_date">No new episodes</string>
+    <string name="broadcast_podcast_downloaded">Downloaded: %1$s</string>
+    <string name="broadcast_podcast_download_failed">Couldn\'t download %1$s. %2$s</string>
+    <string name="broadcast_podcast_download_deleted">Downloaded episode deleted</string>
+    <string name="broadcast_podcast_wait_wifi">Episode downloads are waiting for Wi-Fi</string>
+    <string name="broadcast_podcast_wait_offline">Episode downloads are waiting for a connection</string>
+</resources>

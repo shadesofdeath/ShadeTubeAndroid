@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- "Çalıyor" ekolayzer göstergesi · 3 çubuk · 1000 / 800 / 1100 ms, sonsuz ters tekrar · ease-in-out.
+     Compose'da tercihen rememberInfiniteTransition ile scaleY (pivot alt). Renk: accent. -->
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector android:width="16dp" android:height="16dp" android:viewportWidth="16" android:viewportHeight="16">
+            <group android:name="b1" android:pivotX="3" android:pivotY="16" android:scaleY="0.35">
+                <path android:fillColor="#FFFFFFFF" android:pathData="M1.5,0 h3 v16 h-3 Z"/>
+            </group>
+            <group android:name="b2" android:pivotX="8" android:pivotY="16" android:scaleY="1">
+                <path android:fillColor="#FFFFFFFF" android:pathData="M6.5,0 h3 v16 h-3 Z"/>
+            </group>
+            <group android:name="b3" android:pivotX="13" android:pivotY="16" android:scaleY="0.6">
+                <path android:fillColor="#FFFFFFFF" android:pathData="M11.5,0 h3 v16 h-3 Z"/>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="b1"><aapt:attr name="android:animation">
+        <objectAnimator android:propertyName="scaleY" android:valueFrom="0.35" android:valueTo="1" android:duration="500"
+            android:repeatCount="infinite" android:repeatMode="reverse" android:interpolator="@android:interpolator/accelerate_decelerate"/>
+    </aapt:attr></target>
+    <target android:name="b2"><aapt:attr name="android:animation">
+        <objectAnimator android:propertyName="scaleY" android:valueFrom="1" android:valueTo="0.35" android:duration="400"
+            android:repeatCount="infinite" android:repeatMode="reverse" android:interpolator="@android:interpolator/accelerate_decelerate"/>
+    </aapt:attr></target>
+    <target android:name="b3"><aapt:attr name="android:animation">
+        <objectAnimator android:propertyName="scaleY" android:valueFrom="0.6" android:valueTo="1" android:duration="550"
+            android:repeatCount="infinite" android:repeatMode="reverse" android:interpolator="@android:interpolator/accelerate_decelerate"/>
+    </aapt:attr></target>
+</animated-vector>

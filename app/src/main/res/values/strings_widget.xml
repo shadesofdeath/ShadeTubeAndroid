@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Home-screen widgets (widget/) and voice search (playback/service/PlayFromSearchActivity). -->
+<resources>
+    <string name="widget_small_label">Oynatıcı</string>
+    <string name="widget_large_label">Oynatıcı (geniş)</string>
+    <string name="widget_small_description">Kapak, şarkı ve oynatma kontrolleri</string>
+    <string name="widget_large_description">Kapak, ilerleme, karıştır ve beğen dahil tüm kontroller</string>
+    <string name="widget_empty_title">Bir şey çal</string>
+    <string name="widget_empty_subtitle">Dinlemeye başlamak için dokun</string>
+    <string name="widget_preview_title">Gece Sürüşü</string>
+    <string name="widget_preview_artist">ShadeTube</string>
+    <string name="voice_search_nothing_found">Aramana uyan bir şey bulunamadı</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/profile (docs/UI.md). Turkish (default). -->
+<resources>
+    <string name="profile_title">Profil</string>
+    <string name="profile_guest">Misafir</string>
+    <string name="profile_guest_body">Spotify\'a bağlanınca kitaplığın ve listelerin burada olur.</string>
+    <string name="profile_group_library">Dinleme</string>
+    <string name="profile_group_app">Uygulama</string>
+    <string name="profile_top_artist">en çok: %1$s</string>
+    <string name="profile_unit_h">sa</string>
+    <string name="profile_unit_min">dk</string>
+    <string name="profile_week_empty">Bu hafta henüz dinleme yok.</string>
+</resources>

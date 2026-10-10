@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sheets_share_title">Share song</string>
+    <string name="sheets_play_next_done">Playing next</string>
+    <string name="sheets_unliked">Removed from Liked Songs</string>
+    <string name="sheets_like_only_spotify">Only Spotify songs can be liked</string>
+    <string name="sheets_add_failed">Couldn\'t add to \"%1$s\"</string>
+    <string name="sheets_already_in_list">Already in \"%1$s\"</string>
+    <string name="sheets_only_spotify_tracks">Only Spotify songs can be added</string>
+    <string name="sheets_created">\"%1$s\" created</string>
+    <string name="sheets_created_add_failed">\"%1$s\" created, but the songs couldn\'t be added</string>
+    <string name="sheets_create_failed">Couldn\'t create the playlist</string>
+    <string name="sheets_new_not_on_spotify">These songs aren\'t on Spotify, so they can\'t be saved to a Spotify playlist.</string>
+    <string name="sheets_new_spotify_note">It will be created on your Spotify account.</string>
+    <string name="sheets_new_local_note">Give it a name. You can change it later.</string>
+    <string name="sheets_playlist_name_hint">Playlist name</string>
+    <string name="sheets_open">Open</string>
+    <string name="sheets_removed_from_playlist">Removed from playlist</string>
+    <string name="sheets_remove_failed">Couldn\'t remove from playlist</string>
+    <string name="sheets_remove_from_queue">Remove from queue</string>
+    <string name="sheets_remove_from_playlist">Remove from this playlist</string>
+    <string name="sheets_suggestion_add">Add suggestion to playlist</string>
+    <string name="sheets_suggestion_hide">Hide suggestion</string>
+    <string name="sheets_suggestion_hidden">Suggestion hidden</string>
+    <string name="sheets_suggestions_off">Don\'t show suggestions</string>
+    <string name="sheets_unblock_song">Unblock song</string>
+    <string name="sheets_unblock_artist">Unblock artist</string>
+    <string name="sheets_block_artist_named">Block artist: %1$s</string>
+    <string name="sheets_unblocked">Unblocked</string>
+    <string name="sheets_include_sync">Back to sync</string>
+    <string name="sheets_no_playlists_title">No playlists yet</string>
+    <string name="sheets_no_playlists_body">Create a new playlist and add songs to it.</string>
+    <string name="sheets_source_none_title">No candidates found</string>
+    <string name="sheets_source_none_body">No YouTube video looks like this song.</string>
+    <string name="sheets_source_changed">Source changed</string>
+    <string name="sheets_source_manual">Picked manually</string>
+</resources>

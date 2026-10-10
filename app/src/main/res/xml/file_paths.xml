@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FileProvider (${applicationId}.fileprovider): files shared with other apps from the OS cache dir. -->
+<paths>
+    <cache-path name="shared" path="shared/" />
+</paths>

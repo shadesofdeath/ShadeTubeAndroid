@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sheets_track_count">
+        <item quantity="one">%d şarkı</item>
+        <item quantity="other">%d şarkı</item>
+    </plurals>
+    <plurals name="sheets_skipped_not_spotify">
+        <item quantity="one">(Spotify\'da olmayan %d şarkı eklenmedi)</item>
+        <item quantity="other">(Spotify\'da olmayan %d şarkı eklenmedi)</item>
+    </plurals>
+    <plurals name="sheets_created_with_songs">
+        <item quantity="one">\"%1$s\" oluşturuldu · %2$d şarkı eklendi</item>
+        <item quantity="other">\"%1$s\" oluşturuldu · %2$d şarkı eklendi</item>
+    </plurals>
+
+    <plurals name="sheets_sync_excluded">
+        <item quantity="one">%d şarkı senkrondan çıkarıldı</item>
+        <item quantity="other">%d şarkı senkrondan çıkarıldı</item>
+    </plurals>
+    <plurals name="sheets_sync_included">
+        <item quantity="one">%d şarkı senkrona geri alındı</item>
+        <item quantity="other">%d şarkı senkrona geri alındı</item>
+    </plurals>
+    <plurals name="sheets_sync_deleted">
+        <item quantity="one">%d indirme silindi</item>
+        <item quantity="other">%d indirme silindi</item>
+    </plurals>
+</resources>

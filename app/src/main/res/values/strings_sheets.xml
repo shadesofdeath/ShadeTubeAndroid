@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sheets (ui/sheets): song menu, add to playlist, new playlist, source picker. Owner: shell & player. -->
+<resources>
+    <string name="sheets_share_title">Şarkıyı paylaş</string>
+    <string name="sheets_play_next_done">Sıradaki olarak eklendi</string>
+    <string name="sheets_unliked">Beğenilenlerden kaldırıldı</string>
+    <string name="sheets_like_only_spotify">Yalnızca Spotify şarkıları beğenilebilir</string>
+    <string name="sheets_add_failed">\"%1$s\" listesine eklenemedi</string>
+    <string name="sheets_already_in_list">Zaten \"%1$s\" listesinde</string>
+    <string name="sheets_only_spotify_tracks">Yalnızca Spotify şarkıları eklenebilir</string>
+    <string name="sheets_created">\"%1$s\" oluşturuldu</string>
+    <string name="sheets_created_add_failed">\"%1$s\" oluşturuldu ama şarkılar eklenemedi</string>
+    <string name="sheets_create_failed">Çalma listesi oluşturulamadı</string>
+    <string name="sheets_new_not_on_spotify">Bu şarkılar Spotify\'da olmadığı için Spotify çalma listesine kaydedilemez.</string>
+    <string name="sheets_new_spotify_note">Spotify hesabında oluşturulur.</string>
+    <string name="sheets_new_local_note">Bir isim ver. Sonradan değiştirebilirsin.</string>
+    <string name="sheets_playlist_name_hint">Liste adı</string>
+    <string name="sheets_open">Aç</string>
+    <string name="sheets_removed_from_playlist">Çalma listesinden kaldırıldı</string>
+    <string name="sheets_remove_failed">Çalma listesinden kaldırılamadı</string>
+    <string name="sheets_remove_from_queue">Sıradan kaldır</string>
+    <string name="sheets_remove_from_playlist">Bu listeden kaldır</string>
+    <string name="sheets_suggestion_add">Öneriyi listeye ekle</string>
+    <string name="sheets_suggestion_hide">Öneriyi gizle</string>
+    <string name="sheets_suggestion_hidden">Öneri gizlendi</string>
+    <string name="sheets_suggestions_off">Önerileri gösterme</string>
+    <string name="sheets_unblock_song">Şarkının engelini kaldır</string>
+    <string name="sheets_unblock_artist">Sanatçının engelini kaldır</string>
+    <string name="sheets_block_artist_named">Sanatçıyı engelle: %1$s</string>
+    <string name="sheets_unblocked">Engel kaldırıldı</string>
+    <string name="sheets_include_sync">Senkrona geri al</string>
+    <string name="sheets_no_playlists_title">Henüz çalma listen yok</string>
+    <string name="sheets_no_playlists_body">Yeni bir liste oluşturup şarkıları ekleyebilirsin.</string>
+    <string name="sheets_source_none_title">Aday bulunamadı</string>
+    <string name="sheets_source_none_body">YouTube\'da bu şarkıya benzeyen video yok.</string>
+    <string name="sheets_source_changed">Kaynak değiştirildi</string>
+    <string name="sheets_source_manual">Elle seçildi</string>
+</resources>

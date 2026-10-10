@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/library. Turkish (default). -->
+<resources>
+    <string name="library_tab_history">Geçmiş</string>
+    <string name="library_sort_recent">Son kullanılan</string>
+    <string name="library_sort_name">Ada göre</string>
+    <string name="library_offline_make">Çevrimdışı kullan</string>
+    <string name="library_offline_remove">Çevrimdışından kaldır</string>
+    <string name="library_offline_on">Çevrimdışı senkron açıldı; şarkılar indiriliyor</string>
+    <string name="library_offline_off">Çevrimdışı senkron kapatıldı</string>
+    <string name="library_offline_disable_title">İndirilen şarkılar silinsin mi?</string>
+    <string name="library_offline_disable_body">Bu listenin indirilen şarkıları cihazda tutulabilir ya da silinebilir.</string>
+    <string name="library_offline_delete_songs">Sil</string>
+    <string name="library_offline_keep_songs">Şarkıları tut</string>
+    <string name="library_export">Dışa aktar</string>
+    <string name="library_rename">Yeniden adlandır</string>
+    <string name="library_rename_title">Listeyi yeniden adlandır</string>
+    <string name="library_rename_hint">Liste adı</string>
+    <string name="library_rename_save">Kaydet</string>
+    <string name="library_rename_failed">Çalma listesi yeniden adlandırılamadı</string>
+    <string name="library_no_spotify_connection">Spotify bağlantısı yok</string>
+    <string name="library_delete">Çalma listesini sil</string>
+    <string name="library_delete_title">Çalma listesi silinsin mi?</string>
+    <string name="library_delete_spotify_body">\"%1$s\" Spotify hesabından silinecek.</string>
+    <string name="library_delete_local_body">\"%1$s\" kalıcı olarak silinecek.</string>
+    <string name="library_remove">Kaldır</string>
+    <string name="library_remove_title">Kitaplıktan kaldırılsın mı?</string>
+    <string name="library_remove_body">\"%1$s\" artık kitaplığında görünmeyecek.</string>
+    <string name="library_deleted">\"%1$s\" silindi</string>
+    <string name="library_removed_from_library">\"%1$s\" kitaplıktan kaldırıldı</string>
+    <string name="library_delete_failed">\"%1$s\" silinemedi</string>
+    <string name="library_empty_playlists_title">Henüz çalma listen yok</string>
+    <string name="library_empty_playlists_body">Sağ üstteki + ile yeni bir liste oluştur ya da içe aktar.</string>
+    <string name="library_empty_albums_title">Kayıtlı albüm yok</string>
+    <string name="library_empty_albums_body">Albüm sayfasındaki kalp ile albümleri buraya kaydet.</string>
+    <string name="library_empty_artists_title">Takip ettiğin sanatçı yok</string>
+    <string name="library_empty_artists_body">Sanatçı sayfalarından takip etmeye başla.</string>
+    <string name="library_empty_history_title">Henüz geçmiş yok</string>
+    <string name="library_empty_history_body">Dinlediğin şarkılar burada listelenir.</string>
+    <string name="library_empty_folder_title">Bu klasör boş</string>
+    <string name="library_empty_folder_body">Spotify\'da bu klasöre çalma listesi ekleyebilirsin.</string>
+</resources>

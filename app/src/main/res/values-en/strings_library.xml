@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/library. English. -->
+<resources>
+    <string name="library_tab_history">History</string>
+    <string name="library_sort_recent">Recently used</string>
+    <string name="library_sort_name">Name</string>
+    <string name="library_offline_make">Make available offline</string>
+    <string name="library_offline_remove">Remove from offline</string>
+    <string name="library_offline_on">Offline sync on; downloading songs</string>
+    <string name="library_offline_off">Offline sync off</string>
+    <string name="library_offline_disable_title">Delete downloaded songs?</string>
+    <string name="library_offline_disable_body">The downloaded songs of this list can stay on the device or be deleted.</string>
+    <string name="library_offline_delete_songs">Delete</string>
+    <string name="library_offline_keep_songs">Keep songs</string>
+    <string name="library_export">Export</string>
+    <string name="library_rename">Rename</string>
+    <string name="library_rename_title">Rename playlist</string>
+    <string name="library_rename_hint">Playlist name</string>
+    <string name="library_rename_save">Save</string>
+    <string name="library_rename_failed">Couldn\'t rename the playlist</string>
+    <string name="library_no_spotify_connection">No Spotify connection</string>
+    <string name="library_delete">Delete playlist</string>
+    <string name="library_delete_title">Delete playlist?</string>
+    <string name="library_delete_spotify_body">\"%1$s\" will be deleted from your Spotify account.</string>
+    <string name="library_delete_local_body">\"%1$s\" will be deleted permanently.</string>
+    <string name="library_remove">Remove</string>
+    <string name="library_remove_title">Remove from library?</string>
+    <string name="library_remove_body">\"%1$s\" will no longer appear in your library.</string>
+    <string name="library_deleted">\"%1$s\" deleted</string>
+    <string name="library_removed_from_library">\"%1$s\" removed from your library</string>
+    <string name="library_delete_failed">Couldn\'t delete \"%1$s\"</string>
+    <string name="library_empty_playlists_title">No playlists yet</string>
+    <string name="library_empty_playlists_body">Create a playlist with + in the top corner, or import one.</string>
+    <string name="library_empty_albums_title">No saved albums</string>
+    <string name="library_empty_albums_body">Save albums here with the heart on an album page.</string>
+    <string name="library_empty_artists_title">No followed artists</string>
+    <string name="library_empty_artists_body">Follow artists from their pages.</string>
+    <string name="library_empty_history_title">No history yet</string>
+    <string name="library_empty_history_body">Songs you listen to are listed here.</string>
+    <string name="library_empty_folder_title">This folder is empty</string>
+    <string name="library_empty_folder_body">You can add playlists to this folder on Spotify.</string>
+</resources>

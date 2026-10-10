@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App theme: Compose draws everything; the window only needs the dark stage color so nothing flashes white
+         (the default theme is dark; light mode is switched in Compose). -->
+    <style name="Theme.ShadeTube" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/surface0_dark</item>
+        <item name="android:colorBackground">@color/surface0_dark</item>
+        <item name="android:colorAccent">@color/brand_amber</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <!-- Launch theme of MainActivity (core-splashscreen): call installSplashScreen() before super.onCreate(). -->
+    <style name="Theme.ShadeTube.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/surface0_dark</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.ShadeTube</item>
+    </style>
+</resources>

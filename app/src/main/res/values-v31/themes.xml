@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12+: same splash plus the bottom branding (SCREENS.md 1: ic_splash_branded, 200x80dp). -->
+    <style name="Theme.ShadeTube.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/surface0_dark</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.ShadeTube</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_splash_branded</item>
+    </style>
+</resources>

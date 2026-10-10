@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ui/search. English. -->
+<resources>
+    <string name="search_tab_all">All</string>
+    <string name="search_tab_empty">No results in this tab</string>
+    <string name="search_no_results_body">Check the spelling or search for something else.</string>
+    <string name="search_browse_sub">MusicBrainz tags</string>
+    <string name="search_remove_recent_cd">Remove search \"%1$s\"</string>
+    <string name="search_clipboard_link">Link on the clipboard</string>
+    <string name="search_genre_empty">Nothing found for this genre</string>
+    <string name="search_link_generic">Link</string>
+    <string name="search_link_verb_play_song">Play song</string>
+    <string name="search_link_verb_play_video">Play video as a song</string>
+    <string name="search_link_verb_import">Import playlist</string>
+    <string name="search_link_verb_open_album">Open album</string>
+    <string name="search_link_verb_open_playlist">Open playlist</string>
+    <string name="search_link_verb_open_artist">Open artist</string>
+    <string name="search_link_unsupported_title">This link can\'t be opened</string>
+    <string name="search_link_unsupported_body">Song, album, playlist and artist links are supported.</string>
+    <string name="search_link_connect_title">Connect Spotify</string>
+    <string name="search_link_connect_body">%1$s · Connect your Spotify account to open it</string>
+    <string name="search_link_connect">Connect</string>
+    <string name="search_link_fail_spotify_track">This song wasn\'t found on Spotify</string>
+    <string name="search_link_fail_mb_recording">This recording wasn\'t found on MusicBrainz</string>
+    <string name="search_link_fail_mb_release">This album wasn\'t found on MusicBrainz</string>
+    <string name="search_link_fail_youtube">This YouTube video couldn\'t be opened</string>
+    <string name="search_link_fail_live">Live streams can\'t be played</string>
+    <string name="search_genre_turkish_pop">Turkish pop</string>
+    <string name="search_genre_anatolian_rock">Anatolian rock</string>
+    <string name="search_genre_arabesque">Arabesque</string>
+    <string name="search_genre_turkish_folk">Turkish folk</string>
+    <string name="search_genre_rock">Rock</string>
+    <string name="search_genre_hiphop">Hip hop</string>
+    <string name="search_genre_electronic">Electronic</string>
+    <string name="search_genre_jazz">Jazz</string>
+    <string name="search_genre_classical">Classical</string>
+    <string name="search_genre_metal">Metal</string>
+    <string name="search_genre_indie">Indie</string>
+    <string name="search_genre_rnb">R&amp;B</string>
+    <string name="search_genre_lofi">Lo-fi</string>
+    <string name="search_genre_ambient">Ambient</string>
+    <string name="search_genre_soul">Soul</string>
+    <string name="search_genre_blues">Blues</string>
+</resources>

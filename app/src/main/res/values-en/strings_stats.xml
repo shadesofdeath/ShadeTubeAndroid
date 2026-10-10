@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/stats (docs/UI.md). English. -->
+<resources>
+    <string name="stats_show_less">Show less</string>
+    <string name="stats_streams">Streams</string>
+    <string name="stats_songs">Songs</string>
+    <string name="stats_artists">Artists</string>
+    <string name="stats_new_artists">New artists</string>
+    <string name="stats_active_days">Active days</string>
+    <string name="stats_longest_streak">Longest streak</string>
+    <string name="stats_various_artists">Various artists</string>
+    <string name="stats_empty_title">No listening in this period</string>
+    <string name="stats_empty_body">Your stats build up as you listen. You can also import your Spotify history.</string>
+    <string name="stats_heatmap_sub">When do you listen? Tap a cell.</string>
+    <string name="stats_heatmap_cd">Listening heat map by day and hour</string>
+    <string name="stats_history">History</string>
+    <string name="stats_import_sub">Spotify account data export (JSON or ZIP)</string>
+    <string name="stats_import_reading">Reading… %1$d / %2$d</string>
+    <string name="stats_import_merging">Merging…</string>
+    <string name="stats_import_busy">An import is already running.</string>
+    <string name="stats_import_unavailable">The history isn\'t loaded yet; try again in a moment.</string>
+    <string name="stats_import_failed">Import failed: %1$s</string>
+    <string name="stats_import_write_failed">The history couldn\'t be saved; nothing changed.</string>
+    <string name="stats_import_no_history">The picked files contain no Spotify listening history.</string>
+    <string name="stats_import_nothing_new">This history was imported already; nothing new.</string>
+    <string name="stats_import_done">%1$d plays added · %2$d duplicates skipped.</string>
+    <string name="stats_import_unreadable">%1$d files couldn\'t be read.</string>
+    <string name="stats_imported_count">%1$d imported plays</string>
+    <string name="stats_remove_imported">Remove imported history</string>
+    <string name="stats_remove_imported_title">Remove imported plays?</string>
+    <string name="stats_remove_imported_body">The %1$d plays imported from Spotify are deleted. What you played in ShadeTube stays.</string>
+    <string name="stats_clear">Clear listening history</string>
+    <string name="stats_clear_title">Clear the whole history?</string>
+    <string name="stats_clear_body">Every play, from this device and imported, is deleted. This can\'t be undone.</string>
+    <string name="stats_year_title">%1$d in review</string>
+    <string name="stats_year_empty_title">No listening in %1$d</string>
+    <string name="stats_year_empty_body">There are no plays recorded for this year.</string>
+    <string name="stats_first_stream">First song of the year</string>
+    <string name="stats_by_month">By month</string>
+    <string name="stats_by_weekday">By weekday</string>
+    <string name="stats_top_month">Your top month: %1$s</string>
+    <string name="stats_top_weekday">Your top day: %1$s</string>
+    <string name="stats_story_minutes">minutes listened</string>
+    <string name="stats_story_counts">%1$d streams · %2$d songs · %3$d artists</string>
+    <string name="stats_story_top_artist">Artist of the year</string>
+    <string name="stats_story_cd">%1$d year in review story card</string>
+    <string name="stats_share_unavailable">Sharing isn\'t available on this device (needs Android 10 or later).</string>
+</resources>

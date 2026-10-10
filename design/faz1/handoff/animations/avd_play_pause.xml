@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- play ↔ pause morph · 250 ms · fast_out_slow_in. İki path aynı komut yapısında (M L L L Z ×2). -->
+<!-- Kullanım: AnimatedImageVector.animatedVectorResource(R.drawable.avd_play_pause) + rememberAnimatedVectorPainter(avd, atEnd=isPlaying) -->
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+            <!-- PLAY olarak iki yarım üçgen; PAUSE olarak iki çubuk -->
+            <path android:name="left"  android:fillColor="#FFFFFFFF"
+                android:pathData="M7,4.8 L7,19.2 L12,16.2 L12,7.8 Z"/>
+            <path android:name="right" android:fillColor="#FFFFFFFF"
+                android:pathData="M12,7.8 L12,16.2 L20.5,12 L20.5,12 Z"/>
+        </vector>
+    </aapt:attr>
+    <target android:name="left">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="pathData" android:duration="250"
+                android:valueType="pathType" android:interpolator="@android:interpolator/fast_out_slow_in"
+                android:valueFrom="M7,4.8 L7,19.2 L12,16.2 L12,7.8 Z"
+                android:valueTo="M6,4 L6,20 L10.5,20 L10.5,4 Z"/>
+        </aapt:attr>
+    </target>
+    <target android:name="right">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="pathData" android:duration="250"
+                android:valueType="pathType" android:interpolator="@android:interpolator/fast_out_slow_in"
+                android:valueFrom="M12,7.8 L12,16.2 L20.5,12 L20.5,12 Z"
+                android:valueTo="M13.5,4 L13.5,20 L18,20 L18,4 Z"/>
+        </aapt:attr>
+    </target>
+</animated-vector>

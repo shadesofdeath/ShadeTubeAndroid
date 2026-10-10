@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/settings (docs/UI.md). Plurals, Turkish (default). -->
+<resources>
+    <plurals name="settings_local_summary_songs">
+        <item quantity="one">%d şarkı</item>
+        <item quantity="other">%d şarkı</item>
+    </plurals>
+    <plurals name="settings_local_summary_folders">
+        <item quantity="one">%d klasör</item>
+        <item quantity="other">%d klasör</item>
+    </plurals>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shell (ui/shell): snackbars for backend notices, opened files. Owner: shell & player. -->
+<resources>
+    <string name="shell_err_all_blocked">Listedeki tüm şarkılar kara listede</string>
+    <string name="shell_err_no_match">\"%1$s\" için YouTube eşleşmesi bulunamadı</string>
+    <string name="shell_err_no_match_generic">YouTube eşleşmesi bulunamadı</string>
+    <string name="shell_err_nothing_playable">Çalınabilir şarkı bulunamadı</string>
+    <string name="shell_err_episode_failed">Bölüm çalınamadı — sonrakine geçiliyor</string>
+    <string name="shell_err_episode_format">Bu bölümün ses biçimi çalınamıyor — sonrakine geçiliyor</string>
+    <string name="shell_err_station_unsupported">Bu radyo yayınının biçimi desteklenmiyor</string>
+    <string name="shell_err_station_unreachable">Radyo yayınına bağlanılamadı</string>
+    <string name="shell_err_file_unsupported">Bu dosya biçimi çalınamıyor — sonraki şarkıya geçiliyor</string>
+    <string name="shell_err_file_unreadable">Dosya okunamadı — sonraki şarkıya geçiliyor</string>
+    <string name="shell_err_playback_failed">Oynatma hatası — sonraki şarkıya geçiliyor</string>
+    <string name="shell_mf_unavailable">video kullanılamıyor</string>
+    <string name="shell_mf_age_restricted">yaş kısıtlamalı video</string>
+    <string name="shell_mf_purchase">video satın alma gerektiriyor</string>
+    <string name="shell_mf_unplayable">video oynatılamıyor</string>
+    <string name="shell_mf_rate_limited">YouTube istekleri sınırladı</string>
+    <string name="shell_mf_network">bağlantı hatası</string>
+    <string name="shell_mf_cipher">YouTube çözümleme hatası</string>
+    <string name="shell_mf_backup">yedek kaynak yanıt vermedi</string>
+    <string name="shell_segment_skipped">Atlandı: %1$s</string>
+    <string name="shell_segment_sponsor">sponsor bölümü</string>
+    <string name="shell_segment_selfpromo">tanıtım</string>
+    <string name="shell_segment_interaction">etkileşim hatırlatması</string>
+    <string name="shell_segment_offtopic">müzik dışı bölüm</string>
+    <string name="shell_segment_intro">giriş</string>
+    <string name="shell_segment_outro">kapanış</string>
+    <string name="shell_segment_preview">önizleme</string>
+    <string name="shell_segment_filler">dolgu</string>
+    <string name="shell_segment_other">bölüm</string>
+    <string name="shell_radio_preparing">Radyo hazırlanıyor…</string>
+    <string name="shell_radio_ready">%1$s radyosu çalıyor</string>
+    <string name="shell_radio_ready_generic">Radyo çalıyor</string>
+    <string name="shell_radio_unavailable">Bunun için Spotify radyosu yok</string>
+    <string name="shell_radio_needs_spotify">Radyo için Spotify bağlantısı gerekir</string>
+    <string name="shell_radio_not_offered">Spotify bunun için radyo sunmuyor</string>
+    <string name="shell_radio_empty">Radyoda çalınabilecek şarkı yok</string>
+    <string name="shell_radio_rate_limited">Spotify istekleri sınırladı; biraz sonra tekrar dene</string>
+    <string name="shell_radio_auth">Spotify oturumu yenilenmeli</string>
+    <string name="shell_radio_failed">Radyo başlatılamadı</string>
+    <string name="shell_sleep_track_end">Uyku zamanlayıcı: şarkı bitince</string>
+    <string name="shell_sleep_off">Uyku zamanlayıcı kapatıldı</string>
+    <string name="shell_sleep_stopped">Uyku zamanlayıcı oynatmayı durdurdu</string>
+    <string name="shell_smart_shuffle_on">Akıllı karıştırma açık · sıraya öneriler eklendi</string>
+    <string name="shell_recommendations_off">Öneriler kapatıldı</string>
+    <string name="shell_added_to_playlist_generic">Çalma listesine eklendi</string>
+    <string name="shell_open_nothing_playable">Açılan dosyalarda çalınabilir ses yok</string>
+    <string name="shell_open_playlist_unreadable">Çalma listesi dosyası okunamadı</string>
+    <string name="shell_open_files_context">Açılan dosyalar</string>
+</resources>

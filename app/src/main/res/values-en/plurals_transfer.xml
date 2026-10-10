@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="transfer_more_rows">
+        <item quantity="one">and %1$d more row</item>
+        <item quantity="other">and %1$d more rows</item>
+    </plurals>
+    <plurals name="transfer_create_summary">
+        <item quantity="one">%1$d song will be added to a new local playlist.</item>
+        <item quantity="other">%1$d songs will be added to a new local playlist.</item>
+    </plurals>
+    <plurals name="transfer_also_spotify_body">
+        <item quantity="one">With the %1$d song that has a Spotify id</item>
+        <item quantity="other">With the %1$d songs that have a Spotify id</item>
+    </plurals>
+    <plurals name="transfer_import_done">
+        <item quantity="one">Created \"%1$s\" · %2$d song</item>
+        <item quantity="other">Created \"%1$s\" · %2$d songs</item>
+    </plurals>
+    <plurals name="transfer_spotify_partial">
+        <item quantity="one">only %1$d song made it to Spotify</item>
+        <item quantity="other">only %1$d songs made it to Spotify</item>
+    </plurals>
+    <plurals name="transfer_export_done">
+        <item quantity="one">Exported %1$d song</item>
+        <item quantity="other">Exported %1$d songs</item>
+    </plurals>
+</resources>

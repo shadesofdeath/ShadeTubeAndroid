@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Turkish is the default language (values/ = tr); English is values-en/. Keys: screen_item; %1$s / %1$d placeholders.
+     Source: design/faz1/handoff/strings/strings.xml (keep keys in sync). -->
+<resources>
+    <string name="app_name">ShadeTube</string>
+
+    <!-- Navigasyon -->
+    <string name="nav_home">Ana sayfa</string>
+    <string name="nav_search">Ara</string>
+    <string name="nav_library">Kitaplık</string>
+    <string name="nav_broadcast">Yayın</string>
+    <string name="nav_profile_cd">Profil, istatistikler ve ayarlar</string>
+    <string name="common_step_cd">Adım %1$d / %2$d</string>
+
+    <!-- Karşılama -->
+    <string name="welcome_title">Kitaplığın Spotify\'dan, sesin YouTube\'dan.</string>
+    <string name="welcome_subtitle">Reklam yok, Premium gerekmez, sunucu yok.</string>
+    <string name="welcome_connect_spotify">Spotify\'a bağlan</string>
+    <string name="welcome_explore_without">Spotify olmadan keşfet</string>
+    <string name="welcome_spotify_note">Giriş Spotify\'ın kendi sayfasında yapılır; ShadeTube şifreni görmez.</string>
+    <string name="perm_notifications_title">Bildirimlere izin ver</string>
+    <string name="perm_notifications_body">Çalan şarkıyı kilit ekranında ve bildirimde göstermek için.</string>
+    <string name="perm_audio_title">Müzik dosyalarına erişim</string>
+    <string name="perm_audio_body">Cihazındaki MP3 ve FLAC dosyalarını kitaplığına eklemek için.</string>
+    <string name="perm_allow">İzin ver</string>
+    <string name="perm_later">Şimdi değil</string>
+    <string name="perm_denied_title">İzin verilmedi</string>
+    <string name="perm_denied_body">Bu özellik için ayarlardan izin vermen gerekiyor.</string>
+    <string name="perm_open_settings">Ayarları aç</string>
+
+    <!-- Ana sayfa -->
+    <string name="home_greeting_morning">Günaydın, %1$s</string>
+    <string name="home_greeting_day">İyi günler, %1$s</string>
+    <string name="home_greeting_evening">İyi akşamlar, %1$s</string>
+    <string name="home_greeting_night">İyi geceler, %1$s</string>
+    <string name="home_recently_played">Son çalınanlar</string>
+    <string name="home_for_you">Sana özel</string>
+    <string name="home_made_for_you">Senin için yapıldı</string>
+    <string name="home_made_for_you_sub">Cihazında üretildi · sunucu yok</string>
+    <string name="home_new_releases">Yeni çıkanlar</string>
+    <string name="home_popular_artists">Popüler sanatçılar</string>
+    <string name="home_your_playlists">Çalma listelerin</string>
+    <string name="home_fans_also_like">%1$s dinleyenler bunları da seviyor</string>
+    <string name="home_see_all">Tümünü gör</string>
+    <string name="home_this_week_stats">Bu hafta</string>
+    <string name="mix_daily">Günlük Mix %1$d</string>
+    <string name="mix_month_favorites">Bu ayın favorileri</string>
+    <string name="mix_new_discoveries">Yeni keşiflerin</string>
+    <string name="mix_rediscover">Yeniden keşfet</string>
+    <string name="mix_forgotten_likes">Unutulan beğeniler</string>
+    <string name="mix_all_time">Tüm zamanların en iyileri</string>
+    <string name="mix_year_best">%1$d\'in en iyileri</string>
+
+    <!-- Ara -->
+    <string name="search_hint">Şarkı, sanatçı, albüm, podcast…</string>
+    <string name="search_recent">Son aramalar</string>
+    <string name="search_clear_recent">Temizle</string>
+    <string name="search_browse">Türlere göz at</string>
+    <string name="search_tab_songs">Şarkılar</string>
+    <string name="search_tab_albums">Albümler</string>
+    <string name="search_tab_artists">Sanatçılar</string>
+    <string name="search_tab_playlists">Listeler</string>
+    <string name="search_tab_podcasts">Podcastler</string>
+    <string name="search_link_detected">Link algılandı</string>
+    <string name="search_link_open">Aç</string>
+    <string name="search_link_play">Çal</string>
+    <string name="search_no_results">\"%1$s\" için sonuç yok</string>
+
+    <!-- Kitaplık -->
+    <string name="library_liked_songs">Beğenilen Şarkılar</string>
+    <string name="library_filter_playlists">Listeler</string>
+    <string name="library_filter_albums">Albümler</string>
+    <string name="library_filter_artists">Sanatçılar</string>
+    <string name="library_filter_downloads">İndirilenler</string>
+    <string name="library_filter_local">Yerel</string>
+    <string name="library_filter_podcasts">Podcastler</string>
+    <string name="library_sort">Sırala</string>
+    <string name="library_view_grid_cd">Izgara görünümü</string>
+    <string name="library_view_list_cd">Liste görünümü</string>
+    <string name="library_add_cd">Yeni liste veya içe aktar</string>
+    <string name="library_new_playlist">Yeni çalma listesi</string>
+    <string name="library_import">İçe aktar</string>
+    <string name="library_new_folder">Yeni klasör</string>
+    <string name="library_count_songs">%1$d şarkı</string>
+    <string name="library_empty_liked_title">Henüz beğendiğin şarkı yok</string>
+    <string name="library_empty_liked_body">Bir şarkıdaki kalbe dokun; burada toplanır.</string>
+
+    <!-- Liste / albüm / sanatçı -->
+    <string name="playlist_meta">%1$d şarkı · %2$s</string>
+    <string name="duration_h_m">%1$d sa %2$d dk</string>
+    <string name="duration_m">%1$d dk</string>
+    <string name="action_play">Çal</string>
+    <string name="action_shuffle">Karıştır</string>
+    <string name="action_enhance">Geliştir</string>
+    <string name="action_make_offline">Çevrimdışı</string>
+    <string name="action_more">Diğer</string>
+    <string name="playlist_search_hint">Listede ara</string>
+    <string name="playlist_suggested_badge">Önerilen</string>
+    <string name="playlist_suggested_add_cd">Listeye ekle</string>
+    <string name="playlist_suggested_hide_cd">Öneriyi gizle</string>
+    <string name="playlist_sync_progress">Çevrimdışı senkron</string>
+    <string name="playlist_sync_count">%1$d / %2$d</string>
+    <string name="playlist_sync_pause">Duraklat</string>
+    <string name="playlist_sync_resume">Devam et</string>
+    <string name="playlist_empty_title">Bu liste boş</string>
+    <string name="playlist_empty_body">Şarkı eklemek için aramadan ya da bir şarkının menüsünden \"Listeye ekle\"yi seç.</string>
+    <string name="playlist_empty_cta">Şarkı ekle</string>
+    <string name="artist_popular">Popüler</string>
+    <string name="artist_albums">Albümler</string>
+    <string name="artist_singles">Tekliler</string>
+    <string name="artist_similar">Benzer sanatçılar</string>
+    <string name="artist_follow">Takip et</string>
+    <string name="artist_following">Takip ediliyor</string>
+    <string name="artist_start_radio">Radyo başlat</string>
+    <string name="album_year_tracks">%1$d · %2$d şarkı</string>
+
+    <!-- Mini oynatıcı / Şimdi Çalıyor -->
+    <string name="player_play_cd">Çal</string>
+    <string name="player_pause_cd">Duraklat</string>
+    <string name="player_next_cd">Sonraki</string>
+    <string name="player_prev_cd">Önceki</string>
+    <string name="player_shuffle_cd">Karıştır</string>
+    <string name="player_shuffle_smart_cd">Akıllı karıştır: sıraya öneriler eklenir</string>
+    <string name="player_repeat_cd">Tekrar</string>
+    <string name="player_repeat_one_cd">Tek şarkı tekrar</string>
+    <string name="player_like_cd">Beğen</string>
+    <string name="player_unlike_cd">Beğeniyi kaldır</string>
+    <string name="player_collapse_cd">Küçült</string>
+    <string name="player_open_cd">Şimdi Çalıyor\'u aç</string>
+    <string name="player_playing_from_playlist">Çalma listesinden</string>
+    <string name="player_playing_from_album">Albümden</string>
+    <string name="player_playing_from_radio">Sanatçı radyosu</string>
+    <string name="player_source_badge">YouTube · %1$d kbps · %%%2$d eşleşme</string>
+    <string name="player_wrong_match">Yanlış eşleşme?</string>
+    <string name="player_speed">Hız</string>
+    <string name="player_speed_value">%1$s×</string>
+    <string name="player_sleep_timer">Uyku zamanlayıcı</string>
+    <string name="player_sleep_remaining">%1$d dk</string>
+    <string name="player_sleep_end_of_track">Şarkı bitince</string>
+    <string name="player_output">Çıkış cihazı</string>
+    <string name="player_output_phone">Telefon</string>
+    <string name="player_output_headphones">Kulaklık</string>
+    <string name="player_share">Paylaş</string>
+    <string name="player_tab_queue">Sıradaki</string>
+    <string name="player_tab_lyrics">Şarkı sözleri</string>
+    <string name="player_tab_related">İlgili</string>
+    <string name="player_buffering">Tamponlanıyor…</string>
+
+    <!-- Sözler -->
+    <string name="lyrics_source">Kaynak: %1$s</string>
+    <string name="lyrics_offset">Zamanlama</string>
+    <string name="lyrics_offset_value">%1$+.2f sn</string>
+    <string name="lyrics_not_found_title">Söz bulunamadı</string>
+    <string name="lyrics_not_found_body">Bu kayıt için senkronize söz yok.</string>
+    <string name="lyrics_instrumental">Enstrümantal</string>
+    <string name="lyrics_fullscreen_cd">Karaoke görünümü</string>
+
+    <!-- Sıra -->
+    <string name="queue_title">Sıra</string>
+    <string name="queue_now_playing">Şimdi çalıyor</string>
+    <string name="queue_up_next">Sıradaki</string>
+    <string name="queue_recently_played">Az önce çalanlar</string>
+    <string name="queue_clear">Sırayı temizle</string>
+    <string name="queue_export">Dışa aktar</string>
+    <string name="queue_drag_cd">Sıralamak için sürükle</string>
+    <string name="queue_removed">Sıradan kaldırıldı</string>
+    <string name="action_undo">Geri al</string>
+
+    <!-- Kaynağı değiştir -->
+    <string name="source_title">YouTube kaynağını değiştir</string>
+    <string name="source_match">%%%1$d eşleşme</string>
+    <string name="source_preview">Önizle</string>
+    <string name="source_select">Seç</string>
+    <string name="source_current">Şu anki</string>
+
+    <!-- Şarkı menüsü -->
+    <string name="menu_play_next">Sonra çal</string>
+    <string name="menu_add_to_queue">Sıraya ekle</string>
+    <string name="menu_add_to_playlist">Listeye ekle</string>
+    <string name="menu_like">Beğen</string>
+    <string name="menu_download">İndir</string>
+    <string name="menu_start_radio">Radyo başlat</string>
+    <string name="menu_go_to_artist">Sanatçıya git</string>
+    <string name="menu_go_to_album">Albüme git</string>
+    <string name="menu_change_source">Kaynağı değiştir</string>
+    <string name="menu_block_song">Şarkıyı engelle</string>
+    <string name="menu_block_artist">Sanatçıyı engelle</string>
+    <string name="menu_share">Paylaş</string>
+    <string name="menu_copy_link">Bağlantıyı kopyala</string>
+    <string name="menu_remove_offline">Çevrimdışından çıkar</string>
+    <string name="menu_delete_download">İndirileni sil</string>
+
+    <!-- Yayın: radyo -->
+    <string name="radio_title">Radyo</string>
+    <string name="radio_genres">Türler</string>
+    <string name="radio_countries">Ülkeler</string>
+    <string name="radio_popular">Popüler istasyonlar</string>
+    <string name="radio_favorites">Favoriler</string>
+    <string name="radio_recent">Son dinlenenler</string>
+    <string name="radio_live">Canlı</string>
+    <string name="radio_connecting">Bağlanıyor…</string>
+    <string name="radio_now_on_air">Şu an çalıyor</string>
+    <string name="radio_search_hint">İstasyon ara</string>
+
+    <!-- Yayın: podcast -->
+    <string name="podcast_title">Podcastler</string>
+    <string name="podcast_subscriptions">Abonelikler</string>
+    <string name="podcast_popular_in_country">Ülkende popüler</string>
+    <string name="podcast_add_rss">RSS adresiyle ekle</string>
+    <string name="podcast_new_episodes">%1$d yeni</string>
+    <string name="podcast_subscribe">Abone ol</string>
+    <string name="podcast_subscribed">Abone</string>
+    <string name="podcast_episodes">Bölümler</string>
+    <string name="podcast_resume">Kaldığın yerden devam et</string>
+    <string name="podcast_remaining">%1$d dk kaldı</string>
+    <string name="podcast_mark_played">Oynatıldı işaretle</string>
+    <string name="podcast_mark_unplayed">Oynatılmadı işaretle</string>
+
+    <!-- İndirilenler -->
+    <string name="downloads_title">İndirilenler</string>
+    <string name="downloads_active">Aktif indirmeler</string>
+    <string name="downloads_collections">Çevrimdışı koleksiyonlar</string>
+    <string name="downloads_sync_now">Şimdi senkronla</string>
+    <string name="downloads_pause">Duraklat</string>
+    <string name="downloads_retry">Tekrar dene</string>
+    <string name="downloads_excluded">Hariç tutulan şarkılar</string>
+    <string name="downloads_storage">Depolama kullanımı</string>
+    <string name="downloads_storage_value">%1$s / %2$s</string>
+    <string name="downloads_empty_title">Henüz indirme yok</string>
+    <string name="downloads_empty_body">Bir listeyi \"Çevrimdışı\" yap; burada görünür.</string>
+
+    <!-- Yerel -->
+    <string name="local_title">Yerel dosyalar</string>
+    <string name="local_add_folder">Klasör ekle</string>
+    <string name="local_tab_songs">Şarkılar</string>
+    <string name="local_tab_albums">Albümler</string>
+    <string name="local_tab_artists">Sanatçılar</string>
+    <string name="local_scanning">Taranıyor…</string>
+
+    <!-- İstatistikler -->
+    <string name="stats_title">İstatistikler</string>
+    <string name="stats_range_7d">7 gün</string>
+    <string name="stats_range_30d">30 gün</string>
+    <string name="stats_range_all">Tüm zamanlar</string>
+    <string name="stats_total_time">Toplam dinleme</string>
+    <string name="stats_top_songs">En çok dinlenen şarkılar</string>
+    <string name="stats_top_artists">En çok dinlenen sanatçılar</string>
+    <string name="stats_top_albums">En çok dinlenen albümler</string>
+    <string name="stats_heatmap">Gün × saat</string>
+    <string name="stats_year_review">Yıl özeti</string>
+    <string name="stats_share_story">Story olarak paylaş</string>
+    <string name="stats_import_spotify">Spotify geçmişini içe aktar</string>
+    <string name="stats_plays">%1$d çalma</string>
+
+    <!-- Ayarlar -->
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_spotify_account">Spotify hesabı</string>
+    <string name="settings_sign_out">Çıkış yap</string>
+    <string name="settings_connections">Bağlantılar</string>
+    <string name="settings_lastfm">Last.fm</string>
+    <string name="settings_listenbrainz">ListenBrainz</string>
+    <string name="settings_playback">Oynatma</string>
+    <string name="settings_audio_quality">Ses kalitesi</string>
+    <string name="settings_preload_next">Sonrakini önceden yükle</string>
+    <string name="settings_skip_sponsor">Sponsor / intro atlama</string>
+    <string name="settings_smart_shuffle">Akıllı karıştırma</string>
+    <string name="settings_autoplay_similar">Sıra bitince benzer şarkılarla devam et</string>
+    <string name="settings_fallback_source">Yedek ses kaynağı</string>
+    <string name="settings_sound">Ses</string>
+    <string name="settings_crossfade">Crossfade</string>
+    <string name="settings_crossfade_value">%1$d sn</string>
+    <string name="settings_normalize">Ses seviyesi eşitleme</string>
+    <string name="settings_speed">Hız</string>
+    <string name="settings_equalizer">Ekolayzer</string>
+    <string name="settings_blocked">Engellenenler</string>
+    <string name="settings_appearance">Görünüm</string>
+    <string name="settings_theme">Tema</string>
+    <string name="theme_system">Sistem</string>
+    <string name="theme_dark">Koyu</string>
+    <string name="theme_light">Açık</string>
+    <string name="settings_accent_mode">Vurgu rengi</string>
+    <string name="accent_from_artwork">Kapaktan</string>
+    <string name="accent_fixed">Sabit renk</string>
+    <string name="accent_material_you">Duvar kağıdı (Material You)</string>
+    <string name="settings_reduce_motion">Hareketi azalt</string>
+    <string name="settings_language">Dil</string>
+    <string name="settings_download">İndirme</string>
+    <string name="settings_mp3_quality">MP3 kalitesi</string>
+    <string name="settings_embed_lyrics">Sözleri dosyaya yaz</string>
+    <string name="settings_download_folder">Klasör</string>
+    <string name="settings_wifi_only">Yalnızca Wi-Fi</string>
+    <string name="settings_storage_limit">Depolama sınırı</string>
+    <string name="settings_local_music">Yerel müzik</string>
+    <string name="settings_storage">Depolama</string>
+    <string name="settings_clear_cache">Önbelleği temizle</string>
+    <string name="settings_about">Hakkında</string>
+    <string name="settings_version">Sürüm %1$s</string>
+    <string name="settings_check_update">Güncellemeleri denetle</string>
+    <string name="settings_licenses">Lisanslar</string>
+
+    <!-- Ekolayzer -->
+    <string name="eq_title">Ekolayzer</string>
+    <string name="eq_preamp">Preamp</string>
+    <string name="eq_presets">Hazır ayarlar</string>
+    <string name="eq_preset_flat">Düz</string>
+    <string name="eq_preset_bass">Bas</string>
+    <string name="eq_preset_vocal">Vokal</string>
+    <string name="eq_preset_custom">Özel</string>
+    <string name="eq_db">%1$+d dB</string>
+
+    <!-- İçe / dışa aktar -->
+    <string name="import_title">İçe aktar</string>
+    <string name="import_pick_file">Dosya seç</string>
+    <string name="import_from_link">YouTube listesi linkinden</string>
+    <string name="import_preview">Önizleme</string>
+    <string name="import_found">%1$d şarkı bulundu</string>
+    <string name="import_unreadable">%1$d satır okunamadı</string>
+    <string name="import_create">Oluştur</string>
+    <string name="export_title">Dışa aktar</string>
+    <string name="export_format">Biçim</string>
+
+    <!-- Genel durumlar -->
+    <string name="state_loading">Yükleniyor…</string>
+    <string name="state_offline">Çevrimdışısın — yalnızca indirilenler çalınır</string>
+    <string name="state_error_title">Bir şeyler ters gitti</string>
+    <string name="state_error_body">Bağlantını kontrol edip tekrar dene.</string>
+    <string name="action_retry">Tekrar dene</string>
+    <string name="action_cancel">İptal</string>
+    <string name="action_ok">Tamam</string>
+    <string name="action_delete">Sil</string>
+    <string name="confirm_delete_playlist_title">Liste silinsin mi?</string>
+    <string name="confirm_delete_playlist_body">\"%1$s\" kitaplığından kaldırılır. Spotify\'daki kopyası etkilenmez.</string>
+    <string name="snackbar_added_to_queue">Sıraya eklendi</string>
+    <string name="snackbar_added_to_playlist">\"%1$s\" listesine eklendi</string>
+    <string name="snackbar_liked">Beğenilenlere eklendi</string>
+    <string name="snackbar_download_started">İndirme başladı</string>
+    <string name="snackbar_link_copied">Bağlantı kopyalandı</string>
+    <string name="snackbar_blocked">Engellendi · bir daha önerilmez</string>
+
+    <!-- Sistem yüzeyleri -->
+    <string name="notification_channel_playback">Oynatma</string>
+    <string name="widget_description">Şimdi çalan şarkı ve kontroller</string>
+    <string name="widget_nothing_playing">Hiçbir şey çalmıyor</string>
+    <string name="auto_browse_home">Ana sayfa</string>
+    <string name="auto_browse_library">Kitaplık</string>
+    <string name="auto_browse_radio">Radyo</string>
+
+    <!-- Bileşenler (UI katmanı, tasarım dışı ek anahtarlar) -->
+    <string name="common_more_cd">Diğer seçenekler</string>
+    <string name="common_close_cd">Kapat</string>
+    <string name="common_back_cd">Geri</string>
+    <string name="search_clear_cd">Aramayı temizle</string>
+    <string name="track_downloaded_cd">İndirildi</string>
+    <string name="track_explicit_cd">Müstehcen</string>
+    <string name="track_now_playing_cd">Şu an çalıyor</string>
+    <string name="track_blocked_cd">Engellendi</string>
+    <string name="track_remove_cd">Kaldır</string>
+    <string name="sheet_drag_handle_cd">Sürükleme tutamacı</string>
+    <string name="seek_bar_cd">Şarkı konumu</string>
+    <string name="download_progress_cd">İndiriliyor, %%%1$d</string>
+    <string name="nav_downloads_active_cd">İndirme sürüyor</string>
+    <string name="nav_new_badge_cd">Yeni</string>
+    <string name="fonts_license">Yazı tipleri: Bricolage Grotesque, Instrument Sans, JetBrains Mono — SIL Open Font License 1.1</string>
+    <!-- Backend labels (AppGraph.applyLabels) -->
+    <string name="label_playlist">Çalma listesi</string>
+    <string name="label_artist">Sanatçı</string>
+    <string name="home_saved_albums">Kaydettiğin albümler</string>
+    <string name="home_followed_artists">Takip ettiğin sanatçılar</string>
+    <string name="auto_browse_recent">Son çalınanlar</string>
+    <string name="auto_browse_playlists">Çalma listeleri</string>
+    <string name="downloads_notification_channel">İndirmeler</string>
+    <string name="downloads_notification_title">Müzik indiriliyor</string>
+    <string name="downloads_notification_queued">Sırada %1$d şarkı daha</string>
+    <string name="radio_internet_radio">İnternet radyosu</string>
+    <!-- Radio genre chips (internetradio RadioGenres keys) -->
+    <string name="radio_genre_pop">Pop</string>
+    <string name="radio_genre_rock">Rock</string>
+    <string name="radio_genre_news">Haber</string>
+    <string name="radio_genre_jazz">Caz</string>
+    <string name="radio_genre_classical">Klasik</string>
+    <string name="radio_genre_lofi">Lo-fi</string>
+    <string name="radio_genre_dance">Dans</string>
+    <string name="radio_genre_electronic">Elektronik</string>
+    <string name="radio_genre_80s">80\'ler</string>
+    <string name="radio_genre_90s">90\'lar</string>
+    <string name="radio_genre_70s">70\'ler</string>
+    <string name="radio_genre_60s">60\'lar</string>
+    <string name="radio_genre_hiphop">Hip hop</string>
+    <string name="radio_genre_chillout">Chillout</string>
+    <string name="radio_genre_ambient">Ambiyans</string>
+    <string name="radio_genre_oldies">Nostalji</string>
+    <string name="radio_genre_talk">Sohbet</string>
+    <string name="radio_genre_metal">Metal</string>
+    <string name="radio_genre_blues">Blues</string>
+    <string name="radio_genre_soul">Soul</string>
+    <string name="radio_genre_reggae">Reggae</string>
+    <string name="radio_genre_country">Country</string>
+    <string name="radio_genre_sports">Spor</string>
+    <string name="radio_genre_house">House</string>
+    <string name="radio_genre_top40">Top 40</string>
+    <string name="radio_genre_hits">Hitler</string>
+    <string name="radio_genre_classic_rock">Klasik rock</string>
+    <string name="radio_genre_alternative">Alternatif</string>
+    <string name="radio_genre_indie">Indie</string>
+    <string name="radio_genre_folk">Halk müziği</string>
+    <string name="radio_genre_turkish">Türkçe</string>
+    <string name="radio_genre_arabesk">Arabesk</string>
+    <string name="radio_genre_religious">Dini</string>
+    <string name="radio_genre_christian">Hristiyan</string>
+    <string name="radio_genre_kids">Çocuk</string>
+    <string name="radio_genre_latin">Latin</string>
+    <string name="radio_genre_techno">Tekno</string>
+    <string name="radio_genre_trance">Trance</string>
+    <string name="radio_genre_rnb">R&amp;B</string>
+    <string name="radio_genre_funk">Funk</string>
+    <string name="radio_genre_disco">Disko</string>
+    <string name="radio_genre_world_music">Dünya müziği</string>
+    <string name="radio_genre_public_radio">Kamu yayını</string>
+    <string name="radio_genre_community_radio">Topluluk radyosu</string>
+    <string name="radio_genre_instrumental">Enstrümantal</string>
+    <string name="radio_genre_lounge">Lounge</string>
+    <string name="radio_genre_soundtrack">Film müziği</string>
+    <string name="radio_genre_rap">Rap</string>
+    <string name="radio_genre_punk">Punk</string>
+</resources>

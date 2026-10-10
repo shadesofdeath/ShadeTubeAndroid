@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Browse (ui/home + shared browse texts). English. -->
+<resources>
+    <string name="home_greeting_morning_plain">Good morning</string>
+    <string name="home_greeting_day_plain">Good afternoon</string>
+    <string name="home_greeting_evening_plain">Good evening</string>
+    <string name="home_greeting_night_plain">Good night</string>
+    <string name="home_trending_week">Popular this week</string>
+    <string name="home_trending_week_sub">ListenBrainz · this week</string>
+    <string name="home_new_releases_sub">Last 14 days</string>
+    <string name="home_popular_artists_sub">This week</string>
+    <string name="home_more_trending">Trending albums</string>
+    <string name="home_empty_title">Start listening</string>
+    <string name="home_empty_body">Find a song in Search or connect your Spotify account; Home fills up as you listen.</string>
+    <string name="home_section_empty_title">Nothing here yet</string>
+    <string name="home_untitled_folder">Untitled folder</string>
+    <string name="home_album_type_single">Single</string>
+    <string name="home_album_type_ep">EP</string>
+    <string name="home_album_type_album">Album</string>
+    <string name="home_artist_kind_group">Group</string>
+    <string name="home_similar_artist">Similar artist</string>
+    <string name="home_duration_hm">%1$d hr %2$d min</string>
+    <string name="home_duration_m">%1$d min</string>
+    <string name="home_compact_thousand">%1$sK</string>
+    <string name="home_compact_million">%1$sM</string>
+    <string name="home_smart_month">This month\'s favorites</string>
+    <string name="home_smart_best">All-time best</string>
+    <string name="home_smart_rediscover">Rediscover</string>
+    <string name="home_smart_discoveries">Your new discoveries</string>
+    <string name="home_smart_forgotten">Forgotten likes</string>
+    <string name="home_smart_mix">Daily mix %1$d</string>
+    <string name="home_smart_year">Best of %1$d</string>
+</resources>

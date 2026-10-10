@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by ui/profile (docs/UI.md). English. -->
+<resources>
+    <string name="profile_title">Profile</string>
+    <string name="profile_guest">Guest</string>
+    <string name="profile_guest_body">Connect Spotify to bring your library and playlists.</string>
+    <string name="profile_group_library">Listening</string>
+    <string name="profile_group_app">App</string>
+    <string name="profile_top_artist">top: %1$s</string>
+    <string name="profile_unit_h">h</string>
+    <string name="profile_unit_min">min</string>
+    <string name="profile_week_empty">No listening this week yet.</string>
+</resources>
